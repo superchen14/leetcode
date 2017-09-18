@@ -1,4 +1,7 @@
-# leetcode solution list
+# LeetCode Website
+https://leetcode.com/problemset/algorithms/
+
+# LeetCode Solution List
 
 | # | Problem | Solution | Note |
 | - | ------- | -------- | ---- |
