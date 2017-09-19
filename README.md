@@ -13,3 +13,4 @@ https://leetcode.com/problemset/algorithms/
 | 6 | [ZigZag Conversion](https://github.com/superchen14/leetcode/blob/master/problems/zigzag_conversion.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/zigzag_conversion.js) | |
 | 7 | [Reverse Integer](https://github.com/superchen14/leetcode/blob/master/problems/reverse_integer.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/reverse_integer.js) | |
 | 8 | [String to Integer](https://github.com/superchen14/leetcode/blob/master/problems/string_to_integer.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/string_to_integer.js) | |
+| 9 | [Palindrome Number](https://github.com/superchen14/leetcode/blob/master/problems/palindrome_number.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/palindrome_number.js) | |
