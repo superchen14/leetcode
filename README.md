@@ -20,3 +20,4 @@ https://leetcode.com/problemset/algorithms/
 | 28 | [Implement strStr()](https://github.com/superchen14/leetcode/blob/master/problems/implement_strstr.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/implement_strstr.js) | 最优算法搜索KMP算法 |
 | 56 | [Merge Intervals](https://github.com/superchen14/leetcode/blob/master/problems/merge_intervals.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_intervals.js) | |
 | 57 | [Insert Interval](https://github.com/superchen14/leetcode/blob/master/problems/insert_interval.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/insert_interval.js) | |
+| 70 | [Climbing Stairs](https://github.com/superchen14/leetcode/blob/master/problems/climbing_stairs.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/climbing_stairs.js) | |
