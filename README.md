@@ -15,6 +15,7 @@ https://leetcode.com/problemset/algorithms/
 | 8 | [String to Integer](https://github.com/superchen14/leetcode/blob/master/problems/string_to_integer.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/string_to_integer.js) | |
 | 9 | [Palindrome Number](https://github.com/superchen14/leetcode/blob/master/problems/palindrome_number.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/palindrome_number.js) | |
 | 12 | [Integer to Roman](https://github.com/superchen14/leetcode/blob/master/problems/integer_to_roman.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/integer_to_roman.js) | |
+| 13 | [Roman to Integer](https://github.com/superchen14/leetcode/blob/master/problems/roman_to_integer.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/roman_to_integer.js) | |
 | 15 | [3Sum](https://github.com/superchen14/leetcode/blob/master/problems/3sum.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/3sum.js) | Time Exceed When judge |
 | 20 | [Valid Parentheses](https://github.com/superchen14/leetcode/blob/master/problems/valid_parentheses.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/valid_parentheses.js) | |
 | 21 | [Merge Two Sorted Lists](https://github.com/superchen14/leetcode/blob/master/problems/merge_two_sorted_lists.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_two_sorted_lists.js) | |
