@@ -30,6 +30,7 @@ https://leetcode.com/problemset/algorithms/
 | 57 | [Insert Interval](https://github.com/superchen14/leetcode/blob/master/problems/insert_interval.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/insert_interval.js) | |
 | 58 | [Length of Last Word](https://github.com/superchen14/leetcode/blob/master/problems/length_of_last_word.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/length_of_last_word.js) | |
 | 67 | [Add Binary](https://github.com/superchen14/leetcode/blob/master/problems/add_binary.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/add_binary.js) | |
+| 69 | [Sqrt(x)](https://github.com/superchen14/leetcode/blob/master/problems/sqrt_x.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/squrt_x.js) | |
 | 70 | [Climbing Stairs](https://github.com/superchen14/leetcode/blob/master/problems/climbing_stairs.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/climbing_stairs.js) | |
 | 73 | [Set Matrix Zeroes](https://github.com/superchen14/leetcode/blob/master/problems/set_matrix_zeroes.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/set_matrix_zeroes.js) | |
 | 88 | [Merge Sorted Array](https://github.com/superchen14/leetcode/blob/master/problems/merge_sorted_array.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_sorted_array.js) | 😭 |
