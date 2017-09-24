@@ -25,6 +25,7 @@ https://leetcode.com/problemset/algorithms/
 | 27 | [Remove Element](https://github.com/superchen14/leetcode/blob/master/problems/remove_element.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/remove_element.js) | |
 | 28 | [Implement strStr()](https://github.com/superchen14/leetcode/blob/master/problems/implement_strstr.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/implement_strstr.js) | 最优算法搜索KMP算法 |
 | 46 | [Permutations](https://github.com/superchen14/leetcode/blob/master/problems/permutations.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/permutations.js) | |
+| 49 | [Group Anagrams](https://github.com/superchen14/leetcode/blob/master/problems/group_anagrams.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/group_anagrams.js) | |
 | 56 | [Merge Intervals](https://github.com/superchen14/leetcode/blob/master/problems/merge_intervals.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_intervals.js) | |
 | 57 | [Insert Interval](https://github.com/superchen14/leetcode/blob/master/problems/insert_interval.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/insert_interval.js) | |
 | 58 | [Length of Last Word](https://github.com/superchen14/leetcode/blob/master/problems/length_of_last_word.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/length_of_last_word.js) | |
