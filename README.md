@@ -34,6 +34,7 @@ https://leetcode.com/problemset/algorithms/
 | 70 | [Climbing Stairs](https://github.com/superchen14/leetcode/blob/master/problems/climbing_stairs.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/climbing_stairs.js) | |
 | 73 | [Set Matrix Zeroes](https://github.com/superchen14/leetcode/blob/master/problems/set_matrix_zeroes.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/set_matrix_zeroes.js) | |
 | 77 | [Combinations](https://github.com/superchen14/leetcode/blob/master/problems/combinations.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/combinations.js) | |
+| 78 | [Subsets](https://github.com/superchen14/leetcode/blob/master/problems/subsets.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/subsets.js) | |
 | 88 | [Merge Sorted Array](https://github.com/superchen14/leetcode/blob/master/problems/merge_sorted_array.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_sorted_array.js) | 😭 |
 | 98 | [Validate Binary Search Tree](https://github.com/superchen14/leetcode/blob/master/problems/validate_binary_search_tree.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/validate_binary_search_tree.js) | |
 | 125 | [Valid Palindrome](https://github.com/superchen14/leetcode/blob/master/problems/valid_palindromic.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/valid_palindromic.js) | |
