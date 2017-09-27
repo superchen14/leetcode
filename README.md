@@ -37,6 +37,7 @@ https://leetcode.com/problemset/algorithms/
 | 78 | [Subsets](https://github.com/superchen14/leetcode/blob/master/problems/subsets.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/subsets.js) | |
 | 79 | [Word Search](https://github.com/superchen14/leetcode/blob/master/problems/word_search.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/word_search.js) | |
 | 88 | [Merge Sorted Array](https://github.com/superchen14/leetcode/blob/master/problems/merge_sorted_array.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_sorted_array.js) | 😭 |
+| 91 | [Decode Ways](https://github.com/superchen14/leetcode/blob/master/problems/decode_ways.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/decode_ways.js) | 😭 |
 | 98 | [Validate Binary Search Tree](https://github.com/superchen14/leetcode/blob/master/problems/validate_binary_search_tree.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/validate_binary_search_tree.js) | |
 | 125 | [Valid Palindrome](https://github.com/superchen14/leetcode/blob/master/problems/valid_palindromic.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/valid_palindromic.js) | |
 | 127 | [Word Ladder](https://github.com/superchen14/leetcode/blob/master/problems/word_ladder.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/word_ladder.js) | 😭 |
