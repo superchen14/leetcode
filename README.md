@@ -43,3 +43,4 @@ https://leetcode.com/problemset/algorithms/
 | 125 | [Valid Palindrome](https://github.com/superchen14/leetcode/blob/master/problems/valid_palindromic.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/valid_palindromic.js) | |
 | 127 | [Word Ladder](https://github.com/superchen14/leetcode/blob/master/problems/word_ladder.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/word_ladder.js) | 😭 |
 | 129 | [Sum Root to Leaf Numbers](https://github.com/superchen14/leetcode/blob/master/problems/sum_root_to_leaf_numbers.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/sum_root_to_leaf_numbers.js) | 😭 |
+| 131 | [Palindrome partitioning](https://github.com/superchen14/leetcode/blob/master/problems/palindrome_partitioning.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/palindrome_partitioning.js) | |
