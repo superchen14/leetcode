@@ -42,3 +42,4 @@ https://leetcode.com/problemset/algorithms/
 | 102 | [Binary Tree Level Order Traversal](https://github.com/superchen14/leetcode/blob/master/problems/binary_tree_level_order_traversal.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/binary_tree_level_order_traversal.js) | |
 | 125 | [Valid Palindrome](https://github.com/superchen14/leetcode/blob/master/problems/valid_palindromic.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/valid_palindromic.js) | |
 | 127 | [Word Ladder](https://github.com/superchen14/leetcode/blob/master/problems/word_ladder.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/word_ladder.js) | 😭 |
+| 129 | [Sum Root to Leaf Numbers](https://github.com/superchen14/leetcode/blob/master/problems/sum_root_to_leaf_numbers.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/sum_root_to_leaf_numbers.js) | 😭 |
