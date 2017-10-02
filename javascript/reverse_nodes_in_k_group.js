@@ -43,7 +43,7 @@ var reverseKGroup = function(head, k) {
     }
   }
 
-  // if something left, we need to left partial list reverse again.
+  // if something left, we need to reverse left partial list again.
   if (partialHead !== null) {
     var current = partialHead.next;
     partialHead.next = null;
