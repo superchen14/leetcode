@@ -34,6 +34,7 @@ https://leetcode.com/problemset/algorithms/
 | 27 | [Remove Element](https://github.com/superchen14/leetcode/blob/master/problems/remove_element.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/remove_element.js) | |
 | 28 | [Implement strStr()](https://github.com/superchen14/leetcode/blob/master/problems/implement_strstr.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/implement_strstr.js) | 最优算法搜索KMP算法 |
 | 35 | [Search Insert Position](https://github.com/superchen14/leetcode/blob/master/problems/search_insert_position.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/search_insert_position.js) | |
+| 35 | [Valid Sudoku](https://github.com/superchen14/leetcode/blob/master/problems/valid_sudoku.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/valid_sudoku.js) | |
 | 46 | [Permutations](https://github.com/superchen14/leetcode/blob/master/problems/permutations.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/permutations.js) | |
 | 49 | [Group Anagrams](https://github.com/superchen14/leetcode/blob/master/problems/group_anagrams.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/group_anagrams.js) | |
 | 56 | [Merge Intervals](https://github.com/superchen14/leetcode/blob/master/problems/merge_intervals.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_intervals.js) | |
