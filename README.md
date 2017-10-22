@@ -38,6 +38,7 @@ https://leetcode.com/problemset/algorithms/
 | 36 | [Valid Sudoku](https://github.com/superchen14/leetcode/blob/master/problems/valid_sudoku.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/valid_sudoku.js) | |
 | 37 | [Sudoku Solver](https://github.com/superchen14/leetcode/blob/master/problems/sudoku_solver.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/sudoku_solver.js) | 😭 |
 | 38 | [Count and Say](https://github.com/superchen14/leetcode/blob/master/problems/count_and_say.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/count_and_say.js) | |
+| 39 | [Combination Sum](https://github.com/superchen14/leetcode/blob/master/problems/combination_sum.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/combination_sum.js) | 😭 |
 | 46 | [Permutations](https://github.com/superchen14/leetcode/blob/master/problems/permutations.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/permutations.js) | |
 | 49 | [Group Anagrams](https://github.com/superchen14/leetcode/blob/master/problems/group_anagrams.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/group_anagrams.js) | |
 | 56 | [Merge Intervals](https://github.com/superchen14/leetcode/blob/master/problems/merge_intervals.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_intervals.js) | |
