@@ -41,6 +41,7 @@ https://leetcode.com/problemset/algorithms/
 | 39 | [Combination Sum](https://github.com/superchen14/leetcode/blob/master/problems/combination_sum.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/combination_sum.js) | 😭 |
 | 40 | [Combination Sum II](https://github.com/superchen14/leetcode/blob/master/problems/combination_sum_2.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/combination_sum_2.js) | 😭 |
 | 46 | [Permutations](https://github.com/superchen14/leetcode/blob/master/problems/permutations.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/permutations.js) | |
+| 48 | [Rotate Image](https://github.com/superchen14/leetcode/blob/master/problems/rotate_image.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/rotate_image.js) | |
 | 49 | [Group Anagrams](https://github.com/superchen14/leetcode/blob/master/problems/group_anagrams.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/group_anagrams.js) | |
 | 50 | [Pow(x, n)](https://github.com/superchen14/leetcode/blob/master/problems/pow_x_n.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/pow_x_n.js) | |
 | 56 | [Merge Intervals](https://github.com/superchen14/leetcode/blob/master/problems/merge_intervals.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_intervals.js) | |
