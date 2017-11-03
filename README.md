@@ -42,6 +42,7 @@ https://leetcode.com/problemset/algorithms/
 | 40 | [Combination Sum II](https://github.com/superchen14/leetcode/blob/master/problems/combination_sum_2.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/combination_sum_2.js) | 😭 |
 | 46 | [Permutations](https://github.com/superchen14/leetcode/blob/master/problems/permutations.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/permutations.js) | |
 | 49 | [Group Anagrams](https://github.com/superchen14/leetcode/blob/master/problems/group_anagrams.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/group_anagrams.js) | |
+| 50 | [Pow(x, n)](https://github.com/superchen14/leetcode/blob/master/problems/pow_x_n.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/pow_x_n.js) | |
 | 56 | [Merge Intervals](https://github.com/superchen14/leetcode/blob/master/problems/merge_intervals.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_intervals.js) | |
 | 57 | [Insert Interval](https://github.com/superchen14/leetcode/blob/master/problems/insert_interval.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/insert_interval.js) | |
 | 58 | [Length of Last Word](https://github.com/superchen14/leetcode/blob/master/problems/length_of_last_word.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/length_of_last_word.js) | |
