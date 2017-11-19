@@ -40,6 +40,7 @@ https://leetcode.com/problemset/algorithms/
 | 38 | [Count and Say](https://github.com/superchen14/leetcode/blob/master/problems/count_and_say.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/count_and_say.js) | |
 | 39 | [Combination Sum](https://github.com/superchen14/leetcode/blob/master/problems/combination_sum.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/combination_sum.js) | 😭 |
 | 40 | [Combination Sum II](https://github.com/superchen14/leetcode/blob/master/problems/combination_sum_2.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/combination_sum_2.js) | 😭 |
+| 41 | [First Missing Positive](https://github.com/superchen14/leetcode/blob/master/problems/first_missing_positive.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/first_missing_positive.js) | 😭 |
 | 46 | [Permutations](https://github.com/superchen14/leetcode/blob/master/problems/permutations.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/permutations.js) | |
 | 48 | [Rotate Image](https://github.com/superchen14/leetcode/blob/master/problems/rotate_image.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/rotate_image.js) | |
 | 49 | [Group Anagrams](https://github.com/superchen14/leetcode/blob/master/problems/group_anagrams.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/group_anagrams.js) | |
