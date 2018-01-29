@@ -48,6 +48,7 @@ https://leetcode.com/problemset/algorithms/
 | 48 | [Rotate Image](https://github.com/superchen14/leetcode/blob/master/problems/rotate_image.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/rotate_image.js) | |
 | 49 | [Group Anagrams](https://github.com/superchen14/leetcode/blob/master/problems/group_anagrams.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/group_anagrams.js) | |
 | 50 | [Pow(x, n)](https://github.com/superchen14/leetcode/blob/master/problems/pow_x_n.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/pow_x_n.js) | |
+| 51 | [N-Queens](https://github.com/superchen14/leetcode/blob/master/problems/n_queens.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/n_queens.js) | |
 | 56 | [Merge Intervals](https://github.com/superchen14/leetcode/blob/master/problems/merge_intervals.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_intervals.js) | |
 | 57 | [Insert Interval](https://github.com/superchen14/leetcode/blob/master/problems/insert_interval.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/insert_interval.js) | |
 | 58 | [Length of Last Word](https://github.com/superchen14/leetcode/blob/master/problems/length_of_last_word.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/length_of_last_word.js) | |
