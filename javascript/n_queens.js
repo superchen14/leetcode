@@ -73,5 +73,3 @@ var solveNQueens = function(n) {
   }
   return toResult(solutions);
 };
-
-solveNQueens(4);
