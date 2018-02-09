@@ -56,6 +56,7 @@ https://leetcode.com/problemset/algorithms/
 | 50 | [Pow(x, n)](https://github.com/superchen14/leetcode/blob/master/problems/pow_x_n.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/pow_x_n.js) | |
 | 51 | [N-Queens](https://github.com/superchen14/leetcode/blob/master/problems/n_queens.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/n_queens.js) | |
 | 52 | [N-Queens-II](https://github.com/superchen14/leetcode/blob/master/problems/n_queens_ii.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/n_queens_ii.js) | |
+| 53 | [Maximum Subarray](https://github.com/superchen14/leetcode/blob/master/problems/maximum_subarray.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/maximum_subarray.js) | 😭 |
 | 55 | [Jump Game](https://github.com/superchen14/leetcode/blob/master/problems/jump_game.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/jump_game.js) | |
 | 56 | [Merge Intervals](https://github.com/superchen14/leetcode/blob/master/problems/merge_intervals.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_intervals.js) | |
 | 57 | [Insert Interval](https://github.com/superchen14/leetcode/blob/master/problems/insert_interval.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/insert_interval.js) | |
