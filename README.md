@@ -66,6 +66,7 @@ https://leetcode.com/problemset/algorithms/
 | 60 | [permutation Sequence](https://github.com/superchen14/leetcode/blob/master/problems/permutation_sequence.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/permutation_sequence.js) | |
 | 61 | [Rotate List](https://github.com/superchen14/leetcode/blob/master/problems/rotate_list.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/rotate_list.js) | |
 | 62 | [Unique Paths](https://github.com/superchen14/leetcode/blob/master/problems/unique_paths.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/unique_paths.js) | |
+| 63 | [Unique Paths II](https://github.com/superchen14/leetcode/blob/master/problems/unique_paths_ii.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/unique_paths_ii.js) | |
 | 67 | [Add Binary](https://github.com/superchen14/leetcode/blob/master/problems/add_binary.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/add_binary.js) | |
 | 69 | [Sqrt(x)](https://github.com/superchen14/leetcode/blob/master/problems/sqrt_x.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/squrt_x.js) | |
 | 70 | [Climbing Stairs](https://github.com/superchen14/leetcode/blob/master/problems/climbing_stairs.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/climbing_stairs.js) | |
