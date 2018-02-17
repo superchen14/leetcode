@@ -72,6 +72,7 @@ https://leetcode.com/problemset/algorithms/
 | 67 | [Add Binary](https://github.com/superchen14/leetcode/blob/master/problems/add_binary.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/add_binary.js) | |
 | 69 | [Sqrt(x)](https://github.com/superchen14/leetcode/blob/master/problems/sqrt_x.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/squrt_x.js) | |
 | 70 | [Climbing Stairs](https://github.com/superchen14/leetcode/blob/master/problems/climbing_stairs.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/climbing_stairs.js) | |
+| 71 | [Simplify Path](https://github.com/superchen14/leetcode/blob/master/problems/simplify_path.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/simplify_path.js) | |
 | 73 | [Set Matrix Zeroes](https://github.com/superchen14/leetcode/blob/master/problems/set_matrix_zeroes.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/set_matrix_zeroes.js) | |
 | 77 | [Combinations](https://github.com/superchen14/leetcode/blob/master/problems/combinations.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/combinations.js) | |
 | 78 | [Subsets](https://github.com/superchen14/leetcode/blob/master/problems/subsets.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/subsets.js) | |
