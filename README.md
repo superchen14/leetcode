@@ -70,6 +70,7 @@ https://leetcode.com/problemset/algorithms/
 | 64 | [Minimum Path Sum](https://github.com/superchen14/leetcode/blob/master/problems/minimum_path_sum.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/minimum_path_sum.js) | |
 | 66 | [Plus One](https://github.com/superchen14/leetcode/blob/master/problems/plus_one.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/plus_one.js) | |
 | 67 | [Add Binary](https://github.com/superchen14/leetcode/blob/master/problems/add_binary.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/add_binary.js) | |
+| 68 | [Text Justification](https://github.com/superchen14/leetcode/blob/master/problems/text_justification.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/text_justification.js) | |
 | 69 | [Sqrt(x)](https://github.com/superchen14/leetcode/blob/master/problems/sqrt_x.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/squrt_x.js) | |
 | 70 | [Climbing Stairs](https://github.com/superchen14/leetcode/blob/master/problems/climbing_stairs.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/climbing_stairs.js) | |
 | 71 | [Simplify Path](https://github.com/superchen14/leetcode/blob/master/problems/simplify_path.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/simplify_path.js) | |
