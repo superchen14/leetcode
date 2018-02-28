@@ -77,6 +77,7 @@ https://leetcode.com/problemset/algorithms/
 | 72 | [Edit Distance](https://github.com/superchen14/leetcode/blob/master/problems/edit_distance.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/edit_distance.js) | |
 | 73 | [Set Matrix Zeroes](https://github.com/superchen14/leetcode/blob/master/problems/set_matrix_zeroes.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/set_matrix_zeroes.js) | |
 | 74 | [Search a 2D Matrix](https://github.com/superchen14/leetcode/blob/master/problems/search_a_2d_matrix.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/search_a_2d_matrix.js) | |
+| 75 | [Sort Colors](https://github.com/superchen14/leetcode/blob/master/problems/sort_colors.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/sort_colors.js) | |
 | 77 | [Combinations](https://github.com/superchen14/leetcode/blob/master/problems/combinations.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/combinations.js) | |
 | 78 | [Subsets](https://github.com/superchen14/leetcode/blob/master/problems/subsets.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/subsets.js) | |
 | 79 | [Word Search](https://github.com/superchen14/leetcode/blob/master/problems/word_search.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/word_search.js) | |
