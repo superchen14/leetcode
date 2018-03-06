@@ -91,6 +91,7 @@ https://leetcode.com/problemset/algorithms/
 | 86 | [Partition List](https://github.com/superchen14/leetcode/blob/master/problems/partition_list.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/partition_list.js) | |
 | 87 | [Scramble String](https://github.com/superchen14/leetcode/blob/master/problems/scramble_string.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/scramble_string.js) | |
 | 88 | [Merge Sorted Array](https://github.com/superchen14/leetcode/blob/master/problems/merge_sorted_array.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_sorted_array.js) | 😭 |
+| 89 | [Gray Code](https://github.com/superchen14/leetcode/blob/master/problems/gray_code.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/gray_code.js) | |
 | 91 | [Decode Ways](https://github.com/superchen14/leetcode/blob/master/problems/decode_ways.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/decode_ways.js) | 😭 |
 | 98 | [Validate Binary Search Tree](https://github.com/superchen14/leetcode/blob/master/problems/validate_binary_search_tree.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/validate_binary_search_tree.js) | |
 | 100 | [Same Tree](https://github.com/superchen14/leetcode/blob/master/problems/same_tree.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/same_tree.js) | |
