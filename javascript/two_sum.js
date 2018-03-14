@@ -4,15 +4,16 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-  var valuePosMap = {};
-  for (var index = 0; index < nums.length; ++index) {
-    var currentValue = nums[index];
-    var otherValue = target - currentValue;
-    var posOfOtherValue = valuePosMap[otherValue];
-    if (posOfOtherValue != undefined) {
-      return [posOfOtherValue, index];
+  var map = {};
+  for (let i = 0; i < nums.length; ++i) {
+    const currentNum = nums[i];
+    const matchNum = target - currentNum;
+    if (map[matchNum]) {
+      return [map[matchNum], i];
+    } else {
+      map[currentNum] = i;
     }
-
-    valuePosMap[currentValue] = index;
   }
 };
+
+twoSum([3,2,4], 6);
