@@ -19,7 +19,7 @@ https://leetcode.com/problemset/algorithms/
 | 12 | [Integer to Roman](https://github.com/superchen14/leetcode/blob/master/problems/integer_to_roman.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/integer_to_roman.js) | |
 | 13 | [Roman to Integer](https://github.com/superchen14/leetcode/blob/master/problems/roman_to_integer.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/roman_to_integer.js) | |
 | 14 | [Longest Common Prefix](https://github.com/superchen14/leetcode/blob/master/problems/longest_common_prefix.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/longest_common_prefix.js) | |
-| 15 | [3Sum](https://github.com/superchen14/leetcode/blob/master/problems/3sum.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/3sum.js) | 😭 |
+| 15 | [3Sum](https://github.com/superchen14/leetcode/blob/master/problems/3sum.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/3sum.js) | |
 | 16 | [3Sum Closest](https://github.com/superchen14/leetcode/blob/master/problems/3sum_closest.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/3sum_closest.js) | |
 | 17 | [Letter Combinations of a Phone Number](https://github.com/superchen14/leetcode/blob/master/problems/letter_combinations_of_a_phone_number.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/letter_combinations_of_a_phone_number.js) | |
 | 18 | [4Sum](https://github.com/superchen14/leetcode/blob/master/problems/4sum.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/4sum.js) | |

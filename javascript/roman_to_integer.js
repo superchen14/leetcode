@@ -13,9 +13,9 @@ var romanToInt = function(s) {
     "I": 1
   };
 
-  var value = 0;
-  var length = s.length;
-  for(var i = 0; i < length; ++i) {
+  let value = 0;
+  const length = s.length;
+  for(let i = 0; i < length; ++i) {
     if (i === length - 1 || symbolValueMap[s[i]] >= symbolValueMap[s[i + 1]]) {
       value += symbolValueMap[s[i]];
     } else {
