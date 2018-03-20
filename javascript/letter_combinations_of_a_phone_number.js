@@ -16,8 +16,8 @@ var letterCombinations = function(digits) {
   if (digits.length === 0) return [];
   if (digits.length === 1) return mapping[digits[0]];
 
-  var results = [];
-  var partialResults = letterCombinations(digits.substring(1));
+  const results = [];
+  const partialResults = letterCombinations(digits.substring(1));
   mapping[digits[0]].forEach(function(digit) {
     partialResults.forEach(function(partialResult) {
       results.push(digit + partialResult);

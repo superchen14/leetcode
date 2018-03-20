@@ -4,13 +4,13 @@
  * @return {number}
  */
 var threeSumClosest = function(nums, target) {
-  nums = nums.sort(function(a, b) {return a-b;});
+  nums.sort(function(a, b) {return a-b;});
 
-  var closestTarget = Number.MAX_VALUE;
-  var delta = Number.MAX_VALUE;
-  for(var i = 0; i < nums.length - 2; ++i) {
-    var j = i + 1;
-    var k = nums.length - 1;
+  let closestTarget = Number.MAX_VALUE;
+  let delta = Number.MAX_VALUE;
+  for(let i = 0; i < nums.length - 2; ++i) {
+    let j = i + 1;
+    let k = nums.length - 1;
     while(j < k) {
       var sum = nums[i] + nums[j] + nums[k];
       if (Math.abs(sum - target) < delta) {
