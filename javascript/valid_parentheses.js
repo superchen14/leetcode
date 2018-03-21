@@ -5,23 +5,18 @@
 var isValid = function(s) {
   if (s === "") return true;
 
-  var map = {};
-  map["["] = "]";
-  map["{"] = "}";
-  map["("] = ")";
-  function isLeft(c) { return c === '[' || c === '{' || c === '('; }
-  function isMatch(c1, c2) {
-    return map[c1] === c2;
-  }
+  const isLeft = c => c === '[' || c === '{' || c === '(';
+  const map = {"[": "]", "{": "}", "(":")"};
+  const isMatch = (c1, c2) => map[c1] === c2;
 
-  var stack = [];
-  for (var i = 0; i < s.length; ++i) {
-    var c = s[i];
+  const stack = [];
+  for (let i = 0; i < s.length; ++i) {
+    const c = s[i];
     if (isLeft(c)) {
       stack.push(c);
     } else {
       if (stack.length === 0) return false;
-      var last = stack.pop();
+      const last = stack.pop();
       if (!isMatch(last, c)) return false;
     }
   }

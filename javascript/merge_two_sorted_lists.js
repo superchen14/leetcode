@@ -11,32 +11,19 @@
  * @return {ListNode}
  */
 var mergeTwoLists = function(l1, l2) {
-  var result = null;
-  var currentNodeOnResult = null;
   if (l1 === null) return l2;
   if (l2 === null) return l1;
 
-  while(l1 !== null && l2 !== null)
-  {
-    var newValue = l1.val > l2.val ? l2.val : l1.val;
-    if (result == null) {
-      result = new ListNode(newValue);
-      currentNodeOnResult = result;
-    } else {
-      var tempNode = new ListNode(newValue);
-      currentNodeOnResult.next = tempNode;
-      currentNodeOnResult = tempNode;
-    }
-
-    if (l1.val > l2.val) {
-      l2 = l2.next;
-    } else {
-      l1 = l1.next;
-    }
+  const val1 = l1.val;
+  const val2 = l2.val;
+  let head = null;
+  if (val1 < val2) {
+    head = l1;
+    head.next = mergeTwoLists(l1.next, l2);
+  } else {
+    head = l2;
+    head.next = mergeTwoLists(l1, l2.next);
   }
 
-  if (l1 === null) currentNodeOnResult.next = l2;
-  if (l2 === null) currentNodeOnResult.next = l1;
-
-  return result;
+  return head;
 };
