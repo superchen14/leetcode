@@ -10,18 +10,18 @@
  * @return {ListNode}
  */
 var mergeKLists = function(lists) {
-  var mergedArray = [];
-  for (var i = 0; i < lists.length; ++i) {
-    var list = lists[i];
+  const mergedArray = [];
+  for (let i = 0; i < lists.length; ++i) {
+    let list = lists[i];
     while(list) {
       mergedArray.push(list.val);
       list = list.next;
     }
   }
 
-  mergedArray.sort(function(a, b){ return a - b; });
-  var mergedList = null;
-  var current = null;
+  mergedArray.sort((a, b) => a - b);
+  let mergedList = null;
+  let current = null;
   mergedArray.forEach(function(value){
     if (mergedList === null) {
       mergedList = new ListNode(value);
