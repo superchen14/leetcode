@@ -13,50 +13,27 @@
 var reverseKGroup = function(head, k) {
   if (k === 1) return head;
 
-  var current = head;
-  var head = null;
-  var partialHead = null;
-  var partialTail = null;
-  var lastTail = null;
-  var num = 0;
-  while(current) {
-    var temp = current;
-    current = current.next;
-    temp.next = null;
-    if (partialHead === null) {
-      partialHead = temp;
-    } else {
-      temp.next = partialHead;
-      partialHead = temp;
+  _reverseKGroup = (head, k) => {
+    let temp = k;
+    let values = [];
+    let tempNode = head;
+    while(temp > 0 && tempNode != null) {
+      values.unshift(tempNode.val);
+      tempNode = tempNode.next;
+      --temp;
     }
 
-    if (partialTail === null) partialTail = temp;
+    if (values.length !== k) return;
 
-    ++num;
-    if (num === k) {
-      if (head === null) head = partialHead;
-      num = 0;
-      if (lastTail !== null) lastTail.next = partialHead;
-      lastTail = partialTail;
-      partialHead = null;
-      partialTail = null;
-    }
+    tempNode = head;
+    values.forEach(value => {
+      tempNode.val = value;
+      tempNode = tempNode.next;
+    });
+
+    _reverseKGroup(tempNode, k);
   }
 
-  // if something left, we need to reverse left partial list again.
-  if (partialHead !== null) {
-    var current = partialHead.next;
-    partialHead.next = null;
-    while(current !== null) {
-      var temp = current;
-      current = current.next;
-      temp.next = partialHead;
-      partialHead = temp;
-    }
-  }
-
-  if (head === null) head = partialHead;
-  if (lastTail !== null) lastTail.next = partialHead;
-
+  _reverseKGroup(head, k);
   return head;
 };
