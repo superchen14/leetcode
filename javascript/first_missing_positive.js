@@ -3,13 +3,13 @@
  * @return {number}
  */
 var firstMissingPositive = function(nums) {
-  var i = 0;
-  var n = nums.length;
+  let i = 0;
+  const n = nums.length;
   while(i < n) {
     if (nums[i] > n || nums[i] <= 0 || nums[i] === i + 1 || nums[i] === nums[nums[i] - 1]) {
       ++i;
     } else {
-      var temp = nums[nums[i] - 1];
+      const temp = nums[nums[i] - 1];
       nums[nums[i] - 1] = nums[i];
       nums[i] = temp;
     }
@@ -23,5 +23,3 @@ var firstMissingPositive = function(nums) {
 
   return n + 1;
 };
-
-firstMissingPositive([1,1]);

@@ -3,19 +3,19 @@
  * @return {number}
  */
 var trap = function(height) {
-  var maxHeight = 0;
-  var maxHeightIndex = -1;
-  for (var i = 0; i < height.length; ++i) {
+  let maxHeight = 0;
+  let maxHeightIndex = -1;
+  for (let i = 0; i < height.length; ++i) {
     if (height[i] > maxHeight) {
       maxHeight = height[i];
       maxHeightIndex = i;
     }
   }
 
-  var waterCount = 0;
+  let waterCount = 0;
 
-  var currentMaxHeight = 0;
-  for (var i = 0; i <= maxHeightIndex; ++i) {
+  let currentMaxHeight = 0;
+  for (let i = 0; i <= maxHeightIndex; ++i) {
     if (height[i] > currentMaxHeight) {
       currentMaxHeight = height[i];
     } else {
@@ -24,7 +24,7 @@ var trap = function(height) {
   }
 
   currentMaxHeight = 0;
-  for (var i = height.length - 1; i > maxHeightIndex; --i) {
+  for (let i = height.length - 1; i > maxHeightIndex; --i) {
     if (height[i] > currentMaxHeight) {
       currentMaxHeight = height[i];
     } else {

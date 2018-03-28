@@ -4,14 +4,17 @@
  * @return {number[][]}
  */
 var combinationSum = function(candidates, target) {
-  candidates.sort(function (a, b) { return a - b; });
+  candidates.sort((a, b) => a - b);
 
   let results = [];
   let result = [];
   findResults = function(startIndex, target) {
+    if (target === 0) {
+      results.push(result.slice(0));
+      return;
+    }
     if (startIndex === candidates.length) return;
     if (target < 0) return;
-    if (target === 0) results.push(result.slice(0));
 
     for (var i = startIndex; i < candidates.length; ++i) {
       result.push(candidates[i]);
