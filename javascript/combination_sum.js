@@ -6,8 +6,8 @@
 var combinationSum = function(candidates, target) {
   candidates.sort(function (a, b) { return a - b; });
 
-  var results = [];
-  var result = [];
+  let results = [];
+  let result = [];
   findResults = function(startIndex, target) {
     if (startIndex === candidates.length) return;
     if (target < 0) return;

@@ -6,9 +6,9 @@ var countAndSay = function(n) {
   if (n === 1) return "1";
 
   strValue = countAndSay(n - 1);
-  var number = "";
-  var count = 0;
-  var result = ""
+  let number = "";
+  let count = 0;
+  let result = ""
   while(strValue.length > 0) {
     if (strValue[0] === number) {
       ++count;
