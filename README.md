@@ -47,8 +47,8 @@ https://leetcode.com/problemset/algorithms/
 | 41 | [First Missing Positive](https://github.com/superchen14/leetcode/blob/master/problems/first_missing_positive.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/first_missing_positive.js) | 👌 |
 | 42 | [Trapping Rain Water](https://github.com/superchen14/leetcode/blob/master/problems/trapping_rain_water.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/trapping_rain_water.js) | 👌 |
 | 43 | [Multiply Strings](https://github.com/superchen14/leetcode/blob/master/problems/multiply_strings.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/multiply_strings.js) | |
-| 44 | [Wildcard Matching](https://github.com/superchen14/leetcode/blob/master/problems/wildcard_matching.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/wildcard_matching.js) | 😭 |
-| 45 | [Jump Game II](https://github.com/superchen14/leetcode/blob/master/problems/jump_game_ii.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/jump_game_ii.js) | 😭 |
+| 44 | [Wildcard Matching](https://github.com/superchen14/leetcode/blob/master/problems/wildcard_matching.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/wildcard_matching.js) | 👌 |
+| 45 | [Jump Game II](https://github.com/superchen14/leetcode/blob/master/problems/jump_game_ii.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/jump_game_ii.js) | 👌 |
 | 46 | [Permutations](https://github.com/superchen14/leetcode/blob/master/problems/permutations.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/permutations.js) | |
 | 47 | [Permutations II](https://github.com/superchen14/leetcode/blob/master/problems/permutations_ii.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/permutations_ii.js) | |
 | 48 | [Rotate Image](https://github.com/superchen14/leetcode/blob/master/problems/rotate_image.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/rotate_image.js) | |

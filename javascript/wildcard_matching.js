@@ -17,8 +17,7 @@ var isMatch = function(s, p) {
   while(v1 < s.length) {
     if (v2 < p.length && p[v2] === "*") {
       v1Restart = v1 + 1;
-      v2Restart = v2;
-      ++v2;
+      v2Restart = v2++;
     } else if (v2 < p.length && (p[v2] === "?" || s[v1] === p[v2])) {
       ++v1;
       ++v2;
@@ -37,5 +36,3 @@ var isMatch = function(s, p) {
   }
   return v2 === p.length;
 };
-
-isMatch("aaaa", "***a")
