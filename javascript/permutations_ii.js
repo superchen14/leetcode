@@ -4,30 +4,27 @@
  */
 var permuteUnique = function(nums) {
   if (nums.length == 1) return [nums];
-  nums = nums.sort(function (a, b) { return a - b; });
+  nums = nums.sort((a, b) => a - b);
 
-  var usedNums = [];
-  var results = [];
+  let usedNums = [];
+  let results = [];
+  const swap = (i, j) => {
+    const temp = nums[i];
+    nums[i] = nums[j];
+    nums[j] = temp;
+  }
   for(var i = 0; i < nums.length; ++i) {
     if (usedNums.indexOf(nums[i]) !== -1) continue;
 
     usedNums.push(nums[i]);
-    var temp = nums[0];
-    nums[0] = nums[i];
-    nums[i] = temp;
 
+    swap(0, i);
     var subResults = permuteUnique(nums.slice(1));
-    for (var j = 0; j < subResults.length; ++j) {
+    for (let j = 0; j < subResults.length; ++j) {
       results.push([nums[0]].concat(subResults[j]));
     }
-
-    temp = nums[0];
-    nums[0] = nums[i];
-    nums[i] = temp;
+    swap(0, i);
   }
 
   return results;
 };
-
-var asdf = permuteUnique([1, 1, 2]);
-asdf = asdf;
