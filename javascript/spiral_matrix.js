@@ -44,9 +44,3 @@ var spiralOrder = function(matrix) {
 
   return result;
 };
-
-spiralOrder(
-  [
-    [ 2, 3 ]
-   ]
-);
