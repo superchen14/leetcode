@@ -93,7 +93,7 @@ https://leetcode.com/problemset/algorithms/
 | 88 | [Merge Sorted Array](https://github.com/superchen14/leetcode/blob/master/problems/merge_sorted_array.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_sorted_array.js) | |
 | 89 | [Gray Code](https://github.com/superchen14/leetcode/blob/master/problems/gray_code.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/gray_code.js) | |
 | 90 | [Subsets II](https://github.com/superchen14/leetcode/blob/master/problems/subsets_ii.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/subsets_ii.js) | |
-| 91 | [Decode Ways](https://github.com/superchen14/leetcode/blob/master/problems/decode_ways.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/decode_ways.js) | 😭 |
+| 91 | [Decode Ways](https://github.com/superchen14/leetcode/blob/master/problems/decode_ways.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/decode_ways.js) | |
 | 92 | [Reverse Linked List II](https://github.com/superchen14/leetcode/blob/master/problems/reverse_linked_list_ii.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/reverse_linked_list_ii.js) | |
 | 93 | [Restore IP Addresses](https://github.com/superchen14/leetcode/blob/master/problems/restore_ip_addresses.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/restore_ip_addresses.js) | |
 | 94 | [Binary Tree Inorder Traversal](https://github.com/superchen14/leetcode/blob/master/problems/binary_tree_inorder_traversal.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/binary_tree_inorder_traversal.js) | |
