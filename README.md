@@ -90,7 +90,7 @@ https://leetcode.com/problemset/algorithms/
 | 85 | [Maximal Rectangle](https://github.com/superchen14/leetcode/blob/master/problems/maximal_rectangle.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/maximal_rectangle.js) | |
 | 86 | [Partition List](https://github.com/superchen14/leetcode/blob/master/problems/partition_list.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/partition_list.js) | |
 | 87 | [Scramble String](https://github.com/superchen14/leetcode/blob/master/problems/scramble_string.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/scramble_string.js) | |
-| 88 | [Merge Sorted Array](https://github.com/superchen14/leetcode/blob/master/problems/merge_sorted_array.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_sorted_array.js) | 😭 |
+| 88 | [Merge Sorted Array](https://github.com/superchen14/leetcode/blob/master/problems/merge_sorted_array.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/merge_sorted_array.js) | |
 | 89 | [Gray Code](https://github.com/superchen14/leetcode/blob/master/problems/gray_code.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/gray_code.js) | |
 | 90 | [Subsets II](https://github.com/superchen14/leetcode/blob/master/problems/subsets_ii.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/subsets_ii.js) | |
 | 91 | [Decode Ways](https://github.com/superchen14/leetcode/blob/master/problems/decode_ways.md) | [javascript](https://github.com/superchen14/leetcode/blob/master/javascript/decode_ways.js) | 😭 |
