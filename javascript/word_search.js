@@ -46,5 +46,3 @@ var exist = function(board, word) {
 
   return false;
 };
-
-exist([["A", "A"]], "AAA");
