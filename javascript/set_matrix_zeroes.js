@@ -21,7 +21,7 @@ var setZeroes = function(matrix) {
     for (var col = 1; col < colNum; ++col) {
       if (!matrix[row][col]) {
         matrix[row][0] = 0;
-        matrix[0][col] = 0;       
+        matrix[0][col] = 0;
       }
     }
   }
