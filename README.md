@@ -107,6 +107,7 @@ https://leetcode.com/problemset/algorithms/
 | 102 | [Binary Tree Level Order Traversal](./problems/binary_tree_level_order_traversal.md) | [javascript](./javascript/binary_tree_level_order_traversal.js) | |
 | 103 | [Binary Tree ZigZag Level Order Traversal](./problems/binary_tree_zigzag_level_order_traversal.md) | [javascript](./javascript/binary_tree_zigzag_level_order_traversal.js) | |
 | 104 | [Maximum Depth of Binary Tree](./problems/maximum_depth_of_binary_tree.md) | [javascript](./javascript/maximum_depth_of_binary_tree.js) | |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./problems/construct_binary_tree_from_preorder_and_inorder_traversal.md) | [javascript](./javascript/construct_binary_tree_from_preorder_and_inorder_traversal.js) | |
 | 125 | [Valid Palindrome](./problems/valid_palindromic.md) | [javascript](./javascript/valid_palindromic.js) | |
 | 127 | [Word Ladder](./problems/word_ladder.md) | [javascript](./javascript/word_ladder.js) | 👍 |
 | 129 | [Sum Root to Leaf Numbers](./problems/sum_root_to_leaf_numbers.md) | [javascript](./javascript/sum_root_to_leaf_numbers.js) | 👍 |
