@@ -114,6 +114,7 @@ https://leetcode.com/problemset/algorithms/
 | 109 | [Convert Sorted List to Binary Search Tree](./problems/convert_sorted_list_to_binary_search_tree.md) | [javascript](./javascript/convert_sorted_list_to_binary_search_tree.js) | |
 | 110 | [Balanced Binary Tree](./problems/balanced_binary_tree.md) | [javascript](./javascript/balanced_binary_tree.js) | |
 | 111 | [Minimum Depth of Binary Tree](./problems/minimum_depth_of_binary_tree.md) | [javascript](./javascript/minimum_depth_of_binary_tree.js) | |
+| 112 | [Path Sum](./problems/path_sum.md) | [javascript](./javascript/path_sum.js) | |
 | 125 | [Valid Palindrome](./problems/valid_palindromic.md) | [javascript](./javascript/valid_palindromic.js) | |
 | 127 | [Word Ladder](./problems/word_ladder.md) | [javascript](./javascript/word_ladder.js) | 👍 |
 | 129 | [Sum Root to Leaf Numbers](./problems/sum_root_to_leaf_numbers.md) | [javascript](./javascript/sum_root_to_leaf_numbers.js) | 👍 |
