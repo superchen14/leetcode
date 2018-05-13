@@ -122,6 +122,7 @@ https://leetcode.com/problemset/algorithms/
 | 117 | [Populating Next Right Pointers in Each Node II](./problems/populating_next_right_pointers_in_each_node.md) | [javascript](./javascript/populating_next_right_pointers_in_each_node.js) | |
 | 118 | [Pascal's Triangle](./problems/pascals_triangle.md) | [javascript](./javascript/pascals_triangle.js) | |
 | 119 | [Pascal's Triangle II](./problems/pascals_triangle_ii.md) | [javascript](./javascript/pascals_triangle_ii.js) | |
+| 120 | [Triangle](./problems/triangle.md) | [javascript](./javascript/triangle.js) | |
 | 125 | [Valid Palindrome](./problems/valid_palindromic.md) | [javascript](./javascript/valid_palindromic.js) | |
 | 127 | [Word Ladder](./problems/word_ladder.md) | [javascript](./javascript/word_ladder.js) | 👍 |
 | 129 | [Sum Root to Leaf Numbers](./problems/sum_root_to_leaf_numbers.md) | [javascript](./javascript/sum_root_to_leaf_numbers.js) | 👍 |
