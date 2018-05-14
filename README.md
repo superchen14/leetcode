@@ -129,3 +129,4 @@ https://leetcode.com/problemset/algorithms/
 | 127 | [Word Ladder](./problems/word_ladder.md) | [javascript](./javascript/word_ladder.js) | 👍 |
 | 129 | [Sum Root to Leaf Numbers](./problems/sum_root_to_leaf_numbers.md) | [javascript](./javascript/sum_root_to_leaf_numbers.js) | 👍 |
 | 131 | [Palindrome partitioning](./problems/palindrome_partitioning.md) | [javascript](./javascript/palindrome_partitioning.js) | |
+| 136 | [Single Number](./problems/single_number.md) | [javascript](./javascript/single_number.js) | |
