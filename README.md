@@ -133,3 +133,4 @@ https://leetcode.com/problemset/algorithms/
 | 131 | [Palindrome partitioning](./problems/palindrome_partitioning.md) | [javascript](./javascript/palindrome_partitioning.js) | |
 | 136 | [Single Number](./problems/single_number.md) | [javascript](./javascript/single_number.js) | |
 | 141 | [Linked List Cycle](./problems/linked_list_cycle.md) | [javascript](./javascript/linked_list_cycle.js) | |
+| 160 | [Intersection of Two Linked Lists](./problems/intersection_of_two_linked_lists.md) | [javascript](./javascript/intersection_of_two_linked_lists.js) | |
