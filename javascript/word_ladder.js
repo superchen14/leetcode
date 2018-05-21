@@ -9,13 +9,13 @@ var ladderLength = function(beginWord, endWord, wordList) {
   wordList.forEach(function(w){ wordHash[w] = true; });
   if (!wordHash[endWord]) return 0;
 
-  function getSimilarWords(word, wordHash) {
-    var similarWords = [];
-    for (var i = 0; i < word.length; ++i) {
+  const getSimilarWords = word => {
+    const similarWords = [];
+    for (let i = 0; i < word.length; ++i) {
       var alphabets = "abcdefghijklmnopqrstuvwxyz";
-      for (var j = 0; j < 26; ++j) {
+      for (let j = 0; j < 26; ++j) {
         if (alphabets[j] == word[i]) continue;
-        var similarWord = word.substring(0, i) + alphabets[j] + word.substring(i + 1);
+        const similarWord = word.substring(0, i) + alphabets[j] + word.substring(i + 1);
         if (wordHash[similarWord]) similarWords.push(similarWord);
       }
     }
@@ -23,14 +23,14 @@ var ladderLength = function(beginWord, endWord, wordList) {
     return similarWords;
   }
 
-  var depthHash = {};
+  const depthHash = {};
   depthHash[beginWord] = 1;
-  var array = [beginWord];
+  const array = [beginWord];
   while(array.length > 0) {
-    var currentWord = array.shift();
-    var similarWords = getSimilarWords(currentWord, wordHash);
-    for (var i = 0; i < similarWords.length; ++i) {
-      var similarWord = similarWords[i];
+    const currentWord = array.shift();
+    const similarWords = getSimilarWords(currentWord, wordHash);
+    for (let i = 0; i < similarWords.length; ++i) {
+      const similarWord = similarWords[i];
       if (similarWord == endWord) return depthHash[currentWord] + 1;
       depthHash[similarWord] = depthHash[currentWord] + 1;
       delete wordHash[similarWord];
