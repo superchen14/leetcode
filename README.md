@@ -6,7 +6,7 @@ https://leetcode.com/problemset/algorithms/
 | # | Problem | Solution | Note |
 | --- | ------- | -------- | ---- |
 |   1 | [Two Sum](./problems/two_sum.md) | [js](./javascript/two_sum.js) [ruby](./ruby/two_sum.rb) | |
-|   2 | [Add Two Numbers](./problems/add_two_numbers.md) | [js](./javascript/add_two_numbers.js) | |
+|   2 | [Add Two Numbers](./problems/add_two_numbers.md) | [js](./javascript/add_two_numbers.js) [ruby](./ruby/add_two_numbers.rb) | |
 |   3 | [Longest Substring Without Repeating Characters](./problems/longest_substring_without_repeating_characters.md) | [js](./javascript/longest_substring_without_repeating_characters.js) | |
 |   4 | [Median of Two Sorted Arrays](./problems/median_of_two_sorted_arrays.md) | [js](./javascript/median_of_two_sorted_arrays.js) | |
 |   5 | [Longest Palindromic Substring](./problems/longest_palindromic_substring.md) | [js](./javascript/longest_palindromic_substring.js) | 👍 [O(N) solution](http://articles.leetcode.com/longest-palindromic-substring-part-ii/) |
