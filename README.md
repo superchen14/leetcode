@@ -13,7 +13,7 @@ https://leetcode.com/problemset/algorithms/
 |   6 | [ZigZag Conversion                             ](./problems/006.md) | [js](./javascript/006.js) [ruby](./ruby/006.rb) |      |
 |   7 | [Reverse Integer                               ](./problems/007.md) | [js](./javascript/007.js) [ruby](./ruby/007.rb) |      |
 |   8 | [String to Integer                             ](./problems/008.md) | [js](./javascript/008.js) [ruby](./ruby/008.rb) |      |
-|   9 | [Palindrome Number](./problems/palindrome_number.md) | [js](./javascript/palindrome_number.js) | |
+|   9 | [Palindrome Number                             ](./problems/009.md) | [js](./javascript/009.js) [ruby](./ruby/009.rb) |      |
 |  10 | [Regular Expression Matching](./problems/regular_expression_matching.md) | [js](./javascript/regular_expression_matching.js) | |
 |  11 | [Container With Most Water](./problems/container_with_most_water.md) | [js](./javascript/container_with_most_water.js) | |
 |  12 | [Integer to Roman](./problems/integer_to_roman.md) | [js](./javascript/integer_to_roman.js) | |
