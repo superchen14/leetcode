@@ -3,15 +3,15 @@ https://leetcode.com/problemset/algorithms/
 
 # LeetCode Solution List
 
-|  #  | Problem | Solution | Note |
-| --- | ------- | -------- | ---- |
-|   1 | [Two Sum](./problems/001.md)                                                | [js](./javascript/001.js) [ruby](./ruby/001.rb) | |
-|   2 | [Add Two Numbers](./problems/002.md)                                        | [js](./javascript/002.js) [ruby](./ruby/002.rb) | |
-|   3 | [Longest Substring Without Repeating Characters](./problems/003.md)         | [js](./javascript/003.js) [ruby](./ruby/003.rb) | |
-|   4 | [Median of Two Sorted Arrays](./problems/004.md)                            | [js](./javascript/004.js) [ruby](./ruby/004.rb) | |
-|   5 | [Longest Palindromic Substring](./problems/005.md)                          | [js](./javascript/005.js) [ruby](./ruby/005.rb) | 👍 [O(N) solution](http://articles.leetcode.com/longest-palindromic-substring-part-ii/) |
-|   6 | [ZigZag Conversion](./problems/006.md)                        | [js](./javascript/006.js) [ruby](./ruby/006.rb) | |
-|   7 | [Reverse Integer](./problems/007.md)                          | [js](./javascript/007.js) [ruby](./ruby/007.rb) | |
+|  #  | Problem                                                             | Solution                                        | Note |
+| --- | ------------------------------------------------------------------- | ----------------------------------------------- | ---- |
+|   1 | [Two Sum                                       ](./problems/001.md) | [js](./javascript/001.js) [ruby](./ruby/001.rb) |      |
+|   2 | [Add Two Numbers                               ](./problems/002.md) | [js](./javascript/002.js) [ruby](./ruby/002.rb) |      |
+|   3 | [Longest Substring Without Repeating Characters](./problems/003.md) | [js](./javascript/003.js) [ruby](./ruby/003.rb) |      |
+|   4 | [Median of Two Sorted Arrays                   ](./problems/004.md) | [js](./javascript/004.js) [ruby](./ruby/004.rb) |      |
+|   5 | [Longest Palindromic Substring                 ](./problems/005.md) | [js](./javascript/005.js) [ruby](./ruby/005.rb) | 👍 [O(N) solution](http://articles.leetcode.com/longest-palindromic-substring-part-ii/) |
+|   6 | [ZigZag Conversion                             ](./problems/006.md) | [js](./javascript/006.js) [ruby](./ruby/006.rb) |      |
+|   7 | [Reverse Integer                               ](./problems/007.md) | [js](./javascript/007.js) [ruby](./ruby/007.rb) |      |
 |   8 | [String to Integer](./problems/string_to_integer.md) | [js](./javascript/string_to_integer.js) | |
 |   9 | [Palindrome Number](./problems/palindrome_number.md) | [js](./javascript/palindrome_number.js) | |
 |  10 | [Regular Expression Matching](./problems/regular_expression_matching.md) | [js](./javascript/regular_expression_matching.js) | |
