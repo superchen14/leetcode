@@ -9,7 +9,7 @@ https://leetcode.com/problemset/algorithms/
 |   2 | [Add Two Numbers](./problems/002.md)                                        | [js](./javascript/002.js) [ruby](./ruby/002.rb) | |
 |   3 | [Longest Substring Without Repeating Characters](./problems/003.md)         | [js](./javascript/003.js) [ruby](./ruby/003.rb) | |
 |   4 | [Median of Two Sorted Arrays](./problems/004.md)                            | [js](./javascript/004.js) [ruby](./ruby/004.rb) | |
-|   5 | [Longest Palindromic Substring](./problems/longest_palindromic_substring.md) | [js](./javascript/longest_palindromic_substring.js) | 👍 [O(N) solution](http://articles.leetcode.com/longest-palindromic-substring-part-ii/) |
+|   5 | [Longest Palindromic Substring](./problems/005.md)                          | [js](./javascript/005.js) [ruby](./ruby/005.rb) | 👍 [O(N) solution](http://articles.leetcode.com/longest-palindromic-substring-part-ii/) |
 |   6 | [ZigZag Conversion](./problems/zigzag_conversion.md) | [js](./javascript/zigzag_conversion.js) | |
 |   7 | [Reverse Integer](./problems/reverse_integer.md) | [js](./javascript/reverse_integer.js) | |
 |   8 | [String to Integer](./problems/string_to_integer.md) | [js](./javascript/string_to_integer.js) | |
