@@ -16,7 +16,7 @@ https://leetcode.com/problemset/algorithms/
 |   9 | [Palindrome Number                             ](./problems/009.md) | [js](./javascript/009.js) [ruby](./ruby/009.rb) |      |
 |  10 | [Regular Expression Matching                   ](./problems/010.md) | [js](./javascript/010.js) [ruby](./ruby/010.rb) |      |
 |  11 | [Container With Most Water                     ](./problems/011.md) | [js](./javascript/011.js) [ruby](./ruby/011.rb) |      |
-|  12 | [Integer to Roman](./problems/integer_to_roman.md) | [js](./javascript/integer_to_roman.js) | |
+|  12 | [Integer to Roman                              ](./problems/012.md) | [js](./javascript/012.js) [ruby](./ruby/012.rb) |      |
 |  13 | [Roman to Integer](./problems/roman_to_integer.md) | [js](./javascript/roman_to_integer.js) | |
 |  14 | [Longest Common Prefix](./problems/longest_common_prefix.md) | [js](./javascript/longest_common_prefix.js) | |
 |  15 | [3Sum](./problems/3sum.md) | [js](./javascript/3sum.js) | |
