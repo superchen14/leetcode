@@ -18,7 +18,7 @@ https://leetcode.com/problemset/algorithms/
 |  11 | [Container With Most Water                     ](./problems/011.md) | [js](./javascript/011.js) [ruby](./ruby/011.rb) |      |
 |  12 | [Integer to Roman                              ](./problems/012.md) | [js](./javascript/012.js) [ruby](./ruby/012.rb) |      |
 |  13 | [Roman to Integer                              ](./problems/013.md) | [js](./javascript/013.js) [ruby](./ruby/013.rb) |      |
-|  14 | [Longest Common Prefix](./problems/longest_common_prefix.md) | [js](./javascript/longest_common_prefix.js) | |
+|  14 | [Longest Common Prefix                         ](./problems/014.md) | [js](./javascript/014.js) [ruby](./ruby/014.rb) |      |
 |  15 | [3Sum](./problems/3sum.md) | [js](./javascript/3sum.js) | |
 |  16 | [3Sum Closest](./problems/3sum_closest.md) | [js](./javascript/3sum_closest.js) | |
 |  17 | [Letter Combinations of a Phone Number](./problems/letter_combinations_of_a_phone_number.md) | [js](./javascript/letter_combinations_of_a_phone_number.js) | |
