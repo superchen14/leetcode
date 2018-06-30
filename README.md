@@ -14,7 +14,7 @@ https://leetcode.com/problemset/algorithms/
 |   7 | [Reverse Integer                               ](./problems/007.md) | [js](./javascript/007.js) [ruby](./ruby/007.rb) |      |
 |   8 | [String to Integer                             ](./problems/008.md) | [js](./javascript/008.js) [ruby](./ruby/008.rb) |      |
 |   9 | [Palindrome Number                             ](./problems/009.md) | [js](./javascript/009.js) [ruby](./ruby/009.rb) |      |
-|  10 | [Regular Expression Matching](./problems/regular_expression_matching.md) | [js](./javascript/regular_expression_matching.js) | |
+|  10 | [Regular Expression Matching                   ](./problems/010.md) | [js](./javascript/010.js) [ruby](./ruby/010.rb) |      |
 |  11 | [Container With Most Water                     ](./problems/011.md) | [js](./javascript/011.js) [ruby](./ruby/011.rb) |      |
 |  12 | [Integer to Roman](./problems/integer_to_roman.md) | [js](./javascript/integer_to_roman.js) | |
 |  13 | [Roman to Integer](./problems/roman_to_integer.md) | [js](./javascript/roman_to_integer.js) | |
