@@ -17,7 +17,7 @@ https://leetcode.com/problemset/algorithms/
 |  10 | [Regular Expression Matching                   ](./problems/010.md) | [js](./javascript/010.js) [ruby](./ruby/010.rb) |      |
 |  11 | [Container With Most Water                     ](./problems/011.md) | [js](./javascript/011.js) [ruby](./ruby/011.rb) |      |
 |  12 | [Integer to Roman                              ](./problems/012.md) | [js](./javascript/012.js) [ruby](./ruby/012.rb) |      |
-|  13 | [Roman to Integer](./problems/roman_to_integer.md) | [js](./javascript/roman_to_integer.js) | |
+|  13 | [Roman to Integer                              ](./problems/013.md) | [js](./javascript/013.js) [ruby](./ruby/013.rb) |      |
 |  14 | [Longest Common Prefix](./problems/longest_common_prefix.md) | [js](./javascript/longest_common_prefix.js) | |
 |  15 | [3Sum](./problems/3sum.md) | [js](./javascript/3sum.js) | |
 |  16 | [3Sum Closest](./problems/3sum_closest.md) | [js](./javascript/3sum_closest.js) | |
