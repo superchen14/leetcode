@@ -21,7 +21,7 @@ https://leetcode.com/problemset/algorithms/
 |  14 | [Longest Common Prefix                         ](./problems/014.md) | [js](./javascript/014.js) [ruby](./ruby/014.rb) |      |
 |  15 | [3Sum                                          ](./problems/015.md) | [js](./javascript/015.js) [ruby](./ruby/015.rb) |      |
 |  16 | [3Sum Closest                                  ](./problems/016.md) | [js](./javascript/016.js) [ruby](./ruby/016.rb) |      |
-|  17 | [Letter Combinations of a Phone Number](./problems/letter_combinations_of_a_phone_number.md) | [js](./javascript/letter_combinations_of_a_phone_number.js) | |
+|  17 | [Letter Combinations of a Phone Number         ](./problems/017.md) | [js](./javascript/017.js) [ruby](./ruby/017.rb) |      |
 |  18 | [4Sum](./problems/4sum.md) | [js](./javascript/4sum.js) | |
 |  19 | [Remove Nth Node From End of List](./problems/remove_nth_node_from_end_of_list.md) | [js](./javascript/remove_nth_node_from_end_of_list.js) | |
 |  20 | [Valid Parentheses](./problems/valid_parentheses.md) | [js](./javascript/valid_parentheses.js) | |
