@@ -31,7 +31,7 @@ https://leetcode.com/problemset/algorithms/
 |  24 | [Swap Nodes in Pairs                           ](./problems/024.md) | [js](./javascript/024.js) [ruby](./ruby/024.rb) |      |
 |  25 | [Reverse Nodes in k-Group                      ](./problems/025.md) | [js](./javascript/025.js) [ruby](./ruby/025.rb) |      |
 |  26 | [Remove Duplicated from Sorted Array           ](./problems/026.md) | [js](./javascript/026.js) [ruby](./ruby/026.rb) |      |
-|  27 | [Remove Element](./problems/remove_element.md) | [js](./javascript/remove_element.js) | |
+|  27 | [Remove Element                                ](./problems/027.md) | [js](./javascript/027.js) [ruby](./ruby/027.rb) |      |
 |  28 | [Implement strStr()](./problems/implement_strstr.md) | [js](./javascript/implement_strstr.js) | 最优算法搜索KMP算法 |
 |  30 | [Substring with Concatenation of All Words](./problems/substring_with_concatenation_of_all_words.md) | [js](./javascript/substring_with_concatenation_of_all_words.js) | |
 |  31 | [Next permutation](./problems/next_permutation.md) | [js](./javascript/next_permutation.js) | 👍 |
