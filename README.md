@@ -27,7 +27,7 @@ https://leetcode.com/problemset/algorithms/
 |  20 | [Valid Parentheses                             ](./problems/020.md) | [js](./javascript/020.js) [ruby](./ruby/020.rb) |      |
 |  21 | [Merge Two Sorted Lists                        ](./problems/021.md) | [js](./javascript/021.js) [ruby](./ruby/021.rb) |      |
 |  22 | [Generate Parentheses                          ](./problems/022.md) | [js](./javascript/022.js) [ruby](./ruby/022.rb) | 👍   |
-|  23 | [Merge K Sorted Lists](./problems/merge_k_sorted_lists.md) | [js](./javascript/merge_k_sorted_lists.js) | |
+|  23 | [Merge K Sorted Lists                          ](./problems/023.md) | [js](./javascript/023.js) [ruby](./ruby/023.rb) |      |
 |  24 | [Swap Nodes in Pairs](./problems/swap_nodes_in_pairs.md) | [js](./javascript/swap_nodes_in_pairs.js) | |
 |  25 | [Reverse Nodes in k-Group](./problems/reverse_nodes_in_k_group.md) | [js](./javascript/reverse_nodes_in_k_group.js) | |
 |  26 | [Remove Duplicated from Sorted Array](./problems/remove_duplicated_from_sorted_array.md) | [js](./javascript/remove_duplicated_from_sorted_array.js) | |
