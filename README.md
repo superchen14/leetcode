@@ -23,10 +23,10 @@ https://leetcode.com/problemset/algorithms/
 |  16 | [3Sum Closest                                  ](./problems/016.md) | [js](./javascript/016.js) [ruby](./ruby/016.rb) |      |
 |  17 | [Letter Combinations of a Phone Number         ](./problems/017.md) | [js](./javascript/017.js) [ruby](./ruby/017.rb) |      |
 |  18 | [4Sum                                          ](./problems/018.md) | [js](./javascript/018.js) [ruby](./ruby/018.rb) |      |
-|  19 | [Remove Nth Node From End of List](./problems/remove_nth_node_from_end_of_list.md) | [js](./javascript/remove_nth_node_from_end_of_list.js) | |
-|  20 | [Valid Parentheses](./problems/valid_parentheses.md) | [js](./javascript/valid_parentheses.js) | |
-|  21 | [Merge Two Sorted Lists](./problems/merge_two_sorted_lists.md) | [js](./javascript/merge_two_sorted_lists.js) | |
-|  22 | [Generate Parentheses](./problems/generate_parentheses.md) | [js](./javascript/generate_parentheses.js) | 👍 |
+|  19 | [Remove Nth Node From End of List              ](./problems/019.md) | [js](./javascript/019.js) [ruby](./ruby/019.rb) |      |
+|  20 | [Valid Parentheses                             ](./problems/020.md) | [js](./javascript/020.js) [ruby](./ruby/020.rb) |      |
+|  21 | [Merge Two Sorted Lists                        ](./problems/021.md) | [js](./javascript/021.js) [ruby](./ruby/021.rb) |      |
+|  22 | [Generate Parentheses                          ](./problems/022.md) | [js](./javascript/022.js) [ruby](./ruby/022.rb) | 👍   |
 |  23 | [Merge K Sorted Lists](./problems/merge_k_sorted_lists.md) | [js](./javascript/merge_k_sorted_lists.js) | |
 |  24 | [Swap Nodes in Pairs](./problems/swap_nodes_in_pairs.md) | [js](./javascript/swap_nodes_in_pairs.js) | |
 |  25 | [Reverse Nodes in k-Group](./problems/reverse_nodes_in_k_group.md) | [js](./javascript/reverse_nodes_in_k_group.js) | |
