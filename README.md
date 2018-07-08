@@ -35,7 +35,7 @@ https://leetcode.com/problemset/algorithms/
 |  28 | [Implement strStr()                            ](./problems/028.md) | [js](./javascript/028.js) [ruby](./ruby/028.rb) | 最优算法搜索KMP算法 |
 |  30 | [Substring with Concatenation of All Words     ](./problems/030.md) | [js](./javascript/030.js) [ruby](./ruby/003.rb) |      |
 |  31 | [Next permutation                              ](./problems/031.md) | [js](./javascript/031.js) [ruby](./ruby/031.rb) | 👍   |
-|  32 | [Longest Valid Parentheses](./problems/longest_valid_parentheses.md) | [js](./javascript/longest_valid_parentheses.js) | 👍 |
+|  32 | [Longest Valid Parentheses                     ](./problems/032.md) | [js](./javascript/032.js) [ruby](./ruby/032.rb) | 👍   |
 |  33 | [Search in Rotated Sorted Array](./problems/search_in_rotated_sorted_array.md) | [js](./javascript/search_in_rotated_sorted_array.js) | |
 |  34 | [Search for a Range](./problems/search_for_a_range.md) | [js](./javascript/search_for_a_range.js) | |
 |  35 | [Search Insert Position](./problems/search_insert_position.md) | [js](./javascript/search_insert_position.js) | |
