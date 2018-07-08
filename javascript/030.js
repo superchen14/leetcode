@@ -16,6 +16,7 @@ var findSubstring = function(s, words) {
     return map;
   }
 
+  if (words.length === 0) return [];
   let wordLength = words[0].length;
   let results = [];
   for(let i = 0; i <= s.length - wordLength * words.length; i = i + 1) {

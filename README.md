@@ -33,8 +33,8 @@ https://leetcode.com/problemset/algorithms/
 |  26 | [Remove Duplicated from Sorted Array           ](./problems/026.md) | [js](./javascript/026.js) [ruby](./ruby/026.rb) |      |
 |  27 | [Remove Element                                ](./problems/027.md) | [js](./javascript/027.js) [ruby](./ruby/027.rb) |      |
 |  28 | [Implement strStr()                            ](./problems/028.md) | [js](./javascript/028.js) [ruby](./ruby/028.rb) | 最优算法搜索KMP算法 |
-|  30 | [Substring with Concatenation of All Words](./problems/substring_with_concatenation_of_all_words.md) | [js](./javascript/substring_with_concatenation_of_all_words.js) | |
-|  31 | [Next permutation                              ](./problems/031.md) | [js](./javascript/031.js) [ruby](./ruby/031.rb)  | 👍 |
+|  30 | [Substring with Concatenation of All Words     ](./problems/030.md) | [js](./javascript/030.js) [ruby](./ruby/003.rb) |      |
+|  31 | [Next permutation                              ](./problems/031.md) | [js](./javascript/031.js) [ruby](./ruby/031.rb) | 👍   |
 |  32 | [Longest Valid Parentheses](./problems/longest_valid_parentheses.md) | [js](./javascript/longest_valid_parentheses.js) | 👍 |
 |  33 | [Search in Rotated Sorted Array](./problems/search_in_rotated_sorted_array.md) | [js](./javascript/search_in_rotated_sorted_array.js) | |
 |  34 | [Search for a Range](./problems/search_for_a_range.md) | [js](./javascript/search_for_a_range.js) | |
