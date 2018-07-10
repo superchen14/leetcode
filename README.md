@@ -37,7 +37,7 @@ https://leetcode.com/problemset/algorithms/
 |  31 | [Next permutation                              ](./problems/031.md) | [js](./javascript/031.js) [ruby](./ruby/031.rb) | 👍   |
 |  32 | [Longest Valid Parentheses                     ](./problems/032.md) | [js](./javascript/032.js) [ruby](./ruby/032.rb) | 👍   |
 |  33 | [Search in Rotated Sorted Array                ](./problems/033.md) | [js](./javascript/033.js) [ruby](./ruby/033.rb) |      |
-|  34 | [Search for a Range](./problems/search_for_a_range.md) | [js](./javascript/search_for_a_range.js) | |
+|  34 | [Search for a Range                            ](./problems/034.md) | [js](./javascript/034.js) [ruby](./ruby/034.rb) |      |
 |  35 | [Search Insert Position](./problems/search_insert_position.md) | [js](./javascript/search_insert_position.js) | |
 |  36 | [Valid Sudoku](./problems/valid_sudoku.md) | [js](./javascript/valid_sudoku.js) | |
 |  37 | [Sudoku Solver](./problems/sudoku_solver.md) | [js](./javascript/sudoku_solver.js) | |
