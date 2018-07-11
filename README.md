@@ -40,7 +40,7 @@ https://leetcode.com/problemset/algorithms/
 |  34 | [Search for a Range                            ](./problems/034.md) | [js](./javascript/034.js) [ruby](./ruby/034.rb) |      |
 |  35 | [Search Insert Position                        ](./problems/035.md) | [js](./javascript/035.js) [ruby](./ruby/035.rb) |      |
 |  36 | [Valid Sudoku                                  ](./problems/036.md) | [js](./javascript/036.js) [ruby](./ruby/036.rb) |      |
-|  37 | [Sudoku Solver](./problems/sudoku_solver.md) | [js](./javascript/sudoku_solver.js) | |
+|  37 | [Sudoku Solver                                 ](./problems/037.md) | [js](./javascript/037.js) [ruby](./ruby/037.rb) |      |
 |  38 | [Count and Say](./problems/count_and_say.md) | [js](./javascript/count_and_say.js) | |
 |  39 | [Combination Sum](./problems/combination_sum.md) | [js](./javascript/combination_sum.js) | |
 |  40 | [Combination Sum II](./problems/combination_sum_2.md) | [js](./javascript/combination_sum_2.js) | |
