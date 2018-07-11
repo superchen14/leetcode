@@ -41,7 +41,7 @@ https://leetcode.com/problemset/algorithms/
 |  35 | [Search Insert Position                        ](./problems/035.md) | [js](./javascript/035.js) [ruby](./ruby/035.rb) |      |
 |  36 | [Valid Sudoku                                  ](./problems/036.md) | [js](./javascript/036.js) [ruby](./ruby/036.rb) |      |
 |  37 | [Sudoku Solver                                 ](./problems/037.md) | [js](./javascript/037.js) [ruby](./ruby/037.rb) |      |
-|  38 | [Count and Say](./problems/count_and_say.md) | [js](./javascript/count_and_say.js) | |
+|  38 | [Count and Say                                 ](./problems/038.md) | [js](./javascript/038.js) [ruby](./ruby/038.rb) |      |
 |  39 | [Combination Sum](./problems/combination_sum.md) | [js](./javascript/combination_sum.js) | |
 |  40 | [Combination Sum II](./problems/combination_sum_2.md) | [js](./javascript/combination_sum_2.js) | |
 |  41 | [First Missing Positive](./problems/first_missing_positive.md) | [js](./javascript/first_missing_positive.js) | 👍 |
