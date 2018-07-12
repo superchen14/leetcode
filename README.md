@@ -45,7 +45,7 @@ https://leetcode.com/problemset/algorithms/
 |  39 | [Combination Sum                               ](./problems/039.md) | [js](./javascript/039.js) [ruby](./ruby/039.rb) |      |
 |  40 | [Combination Sum II                            ](./problems/040.md) | [js](./javascript/040.js) [ruby](./ruby/040.rb) |      |
 |  41 | [First Missing Positive                        ](./problems/041.md) | [js](./javascript/041.js) [ruby](./ruby/041.rb) | 👍   |
-|  42 | [Trapping Rain Water](./problems/trapping_rain_water.md) | [js](./javascript/trapping_rain_water.js) | 👍 |
+|  42 | [Trapping Rain Water                           ](./problems/042.md) | [js](./javascript/042.js) [ruby](./ruby/042.rb) | 👍   |
 |  43 | [Multiply Strings](./problems/multiply_strings.md) | [js](./javascript/multiply_strings.js) | |
 |  44 | [Wildcard Matching](./problems/wildcard_matching.md) | [js](./javascript/wildcard_matching.js) | 👍 |
 |  45 | [Jump Game II](./problems/jump_game_ii.md) | [js](./javascript/jump_game_ii.js) | 👍 |
