@@ -4,8 +4,6 @@
  * @return {number[][]}
  */
 var combinationSum = function(candidates, target) {
-  candidates.sort((a, b) => a - b);
-
   let results = [];
   let result = [];
   findResults = function(startIndex, target) {

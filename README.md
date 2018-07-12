@@ -42,7 +42,7 @@ https://leetcode.com/problemset/algorithms/
 |  36 | [Valid Sudoku                                  ](./problems/036.md) | [js](./javascript/036.js) [ruby](./ruby/036.rb) |      |
 |  37 | [Sudoku Solver                                 ](./problems/037.md) | [js](./javascript/037.js) [ruby](./ruby/037.rb) |      |
 |  38 | [Count and Say                                 ](./problems/038.md) | [js](./javascript/038.js) [ruby](./ruby/038.rb) |      |
-|  39 | [Combination Sum](./problems/combination_sum.md) | [js](./javascript/combination_sum.js) | |
+|  39 | [Combination Sum                               ](./problems/039.md) | [js](./javascript/039.js) [ruby](./ruby/039.rb) |      |
 |  40 | [Combination Sum II](./problems/combination_sum_2.md) | [js](./javascript/combination_sum_2.js) | |
 |  41 | [First Missing Positive](./problems/first_missing_positive.md) | [js](./javascript/first_missing_positive.js) | 👍 |
 |  42 | [Trapping Rain Water](./problems/trapping_rain_water.md) | [js](./javascript/trapping_rain_water.js) | 👍 |
