@@ -52,7 +52,7 @@ https://leetcode.com/problemset/algorithms/
 |  46 | [Permutations                                  ](./problems/046.md) | [js](./javascript/046.js) [ruby](./ruby/046.rb) |      |
 |  47 | [Permutations II                               ](./problems/047.md) | [js](./javascript/047.js) [ruby](./ruby/047.rb) |      |
 |  48 | [Rotate Image                                  ](./problems/048.md) | [js](./javascript/048.js) [ruby](./ruby/048.rb) |      |
-|  49 | [Group Anagrams](./problems/group_anagrams.md) | [js](./javascript/group_anagrams.js) | |
+|  49 | [Group Anagrams                                ](./problems/049.md) | [js](./javascript/049.js) [ruby](./ruby/049.rb) |      |
 |  50 | [Pow(x, n)](./problems/pow_x_n.md) | [js](./javascript/pow_x_n.js) | |
 |  51 | [N-Queens](./problems/n_queens.md) | [js](./javascript/n_queens.js) | |
 |  52 | [N-Queens-II](./problems/n_queens_ii.md) | [js](./javascript/n_queens_ii.js) | |
