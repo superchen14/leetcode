@@ -49,7 +49,7 @@ https://leetcode.com/problemset/algorithms/
 |  43 | [Multiply Strings                              ](./problems/043.md) | [js](./javascript/043.js) [ruby](./ruby/043.rb) |      |
 |  44 | [Wildcard Matching                             ](./problems/044.md) | [js](./javascript/044.js) [ruby](./ruby/044.rb) | 👍   |
 |  45 | [Jump Game II                                  ](./problems/045.md) | [js](./javascript/045.js) [ruby](./ruby/045.rb) | 👍   |
-|  46 | [Permutations](./problems/permutations.md) | [js](./javascript/permutations.js) | |
+|  46 | [Permutations                                  ](./problems/046.md) | [js](./javascript/046.js) [ruby](./ruby/046.rb) |      |
 |  47 | [Permutations II](./problems/permutations_ii.md) | [js](./javascript/permutations_ii.js) | |
 |  48 | [Rotate Image](./problems/rotate_image.md) | [js](./javascript/rotate_image.js) | |
 |  49 | [Group Anagrams](./problems/group_anagrams.md) | [js](./javascript/group_anagrams.js) | |
