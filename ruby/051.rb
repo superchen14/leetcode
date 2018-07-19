@@ -21,7 +21,7 @@ def is_valid(board, row, col)
     end
   end
 
-  if row + col <= board.length
+  if row + col < board.length
     return false if 0.upto(row + col).any? do |r|
       c = row + col - r
       r != row && board[r][c] == "Q"
@@ -36,7 +36,7 @@ def is_valid(board, row, col)
   true
 end
 
-def find_solution board, row, col
+def find_solution board, row, col, results
   if row == board.length
     sum = 0
     board.each do |line|
@@ -44,27 +44,23 @@ def find_solution board, row, col
         sum += 1 if item == "Q"
       end
     end
-    return sum == board.length
+    results.push(board.map{|line| line.join("")}) if sum == board.length
+    return
   end
 
-  return find_solution(board, row + 1, 0) if col == board.length
-  return find_solution(board, row, col + 1) unless is_valid(board, row, col)
-  board[row][col] = "Q"
-  if find_solution(board, row, col + 1)
-    return true
-  else
-    board[row][col] = "*"
-    return find_solution(board, row, col + 1)
+  return find_solution(board, row + 1, 0, results) if col == board.length
+  if is_valid(board, row, col)
+    board[row][col] = "Q"
+    find_solution(board, row + 1, 0, results)
+    board[row][col] = "."
   end
+  find_solution(board, row, col + 1, results)
 end
 
 def solve_n_queens(n)
-  board = Array.new(n, Array.new(n, "*"))
-  if find_solution(board, 0, 0)
-    return board
-  else
-    return nil
-  end
+  board = []
+  1.upto(n).each { board.push(Array.new(n, ".")) }
+  results = []
+  find_solution(board, 0, 0, results)
+  results
 end
-
-p solve_n_queens(4)
