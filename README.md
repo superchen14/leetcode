@@ -55,7 +55,7 @@ https://leetcode.com/problemset/algorithms/
 |  49 | [Group Anagrams                                ](./problems/049.md) | [js](./javascript/049.js) [ruby](./ruby/049.rb) |      |
 |  50 | [Pow(x, n)                                     ](./problems/050.md) | [js](./javascript/050.js) [ruby](./ruby/050.rb) |      |
 |  51 | [N-Queens                                      ](./problems/051.md) | [js](./javascript/051.js) [ruby 1](./ruby/051_1.rb) [ruby 2](./ruby/051_2.rb) |      |
-|  52 | [N-Queens-II](./problems/n_queens_ii.md) | [js](./javascript/n_queens_ii.js) | |
+|  52 | [N-Queens-II                                   ](./problems/052.md) | [js](./javascript/052.js) [ruby](./ruby/052.rb) |      |
 |  53 | [Maximum Subarray](./problems/maximum_subarray.md) | [js](./javascript/maximum_subarray.js) | 👍 |
 |  54 | [Spiral Matrix](./problems/spiral_matrix.md) | [js](./javascript/spiral_matrix.js) | |
 |  55 | [Jump Game](./problems/jump_game.md) | [js](./javascript/jump_game.js) | |
