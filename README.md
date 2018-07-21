@@ -57,7 +57,7 @@ https://leetcode.com/problemset/algorithms/
 |  51 | [N-Queens                                      ](./problems/051.md) | [js](./javascript/051.js) [ruby 1](./ruby/051_1.rb) [ruby 2](./ruby/051_2.rb) |      |
 |  52 | [N-Queens-II                                   ](./problems/052.md) | [js](./javascript/052.js) [ruby](./ruby/052.rb) |      |
 |  53 | [Maximum Subarray                              ](./problems/053.md) | [js](./javascript/053.js) [ruby](./ruby/053.rb) |      |
-|  54 | [Spiral Matrix](./problems/spiral_matrix.md) | [js](./javascript/spiral_matrix.js) | |
+|  54 | [Spiral Matrix                                 ](./problems/054.md) | [js](./javascript/054.js) [ruby](./ruby/054.rb) |      |
 |  55 | [Jump Game](./problems/jump_game.md) | [js](./javascript/jump_game.js) | |
 |  56 | [Merge Intervals](./problems/merge_intervals.md) | [js](./javascript/merge_intervals.js) | |
 |  57 | [Insert Interval](./problems/insert_interval.md) | [js](./javascript/insert_interval.js) | |
