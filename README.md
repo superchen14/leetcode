@@ -59,7 +59,7 @@ https://leetcode.com/problemset/algorithms/
 |  53 | [Maximum Subarray                              ](./problems/053.md) | [js](./javascript/053.js) [ruby](./ruby/053.rb) |      |
 |  54 | [Spiral Matrix                                 ](./problems/054.md) | [js](./javascript/054.js) [ruby](./ruby/054.rb) |      |
 |  55 | [Jump Game                                     ](./problems/055.md) | [js](./javascript/055.js) [ruby](./ruby/055.rb) |      |
-|  56 | [Merge Intervals](./problems/merge_intervals.md) | [js](./javascript/merge_intervals.js) | |
+|  56 | [Merge Intervals                               ](./problems/056.md) | [js](./javascript/056.js) [ruby](./ruby/056.rb) |      |
 |  57 | [Insert Interval](./problems/insert_interval.md) | [js](./javascript/insert_interval.js) | |
 |  58 | [Length of Last Word](./problems/length_of_last_word.md) | [js](./javascript/length_of_last_word.js) | |
 |  59 | [Spiral Matrix II](./problems/spiral_matrix_ii.md) | [js](./javascript/spiral_matrix_ii.js) | |
