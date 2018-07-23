@@ -64,7 +64,7 @@ https://leetcode.com/problemset/algorithms/
 |  58 | [Length of Last Word                           ](./problems/058.md) | [js](./javascript/058.js) [ruby](./ruby/058.rb) |      |
 |  59 | [Spiral Matrix II                              ](./problems/059.md) | [js](./javascript/059.js) [ruby](./ruby/059.rb) |      |
 |  60 | [permutation Sequence                          ](./problems/060.md) | [js](./javascript/060.js) [ruby](./ruby/060.rb) |      |
-|  61 | [Rotate List](./problems/rotate_list.md) | [js](./javascript/rotate_list.js) | |
+|  61 | [Rotate List                                   ](./problems/061.md) | [js](./javascript/061.js) [ruby](./ruby/061.rb) |      |
 |  62 | [Unique Paths](./problems/unique_paths.md) | [js](./javascript/unique_paths.js) | |
 |  63 | [Unique Paths II](./problems/unique_paths_ii.md) | [js](./javascript/unique_paths_ii.js) | |
 |  64 | [Minimum Path Sum](./problems/minimum_path_sum.md) | [js](./javascript/minimum_path_sum.js) | |
