@@ -66,7 +66,7 @@ https://leetcode.com/problemset/algorithms/
 |  60 | [permutation Sequence                          ](./problems/060.md) | [js](./javascript/060.js) [ruby](./ruby/060.rb) |      |
 |  61 | [Rotate List                                   ](./problems/061.md) | [js](./javascript/061.js) [ruby](./ruby/061.rb) |      |
 |  62 | [Unique Paths                                  ](./problems/062.md) | [js](./javascript/062.js) [ruby](./ruby/062.rb) |      |
-|  63 | [Unique Paths II](./problems/unique_paths_ii.md) | [js](./javascript/unique_paths_ii.js) | |
+|  63 | [Unique Paths II                               ](./problems/063.md) | [js](./javascript/063.js) [ruby](./ruby/063.rb) |      |
 |  64 | [Minimum Path Sum](./problems/minimum_path_sum.md) | [js](./javascript/minimum_path_sum.js) | |
 |  66 | [Plus One](./problems/plus_one.md) | [js](./javascript/plus_one.js) | |
 |  67 | [Add Binary](./problems/add_binary.md) | [js](./javascript/add_binary.js) | |
