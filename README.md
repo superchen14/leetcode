@@ -67,7 +67,7 @@ https://leetcode.com/problemset/algorithms/
 |  61 | [Rotate List                                   ](./problems/061.md) | [js](./javascript/061.js) [ruby](./ruby/061.rb) |      |
 |  62 | [Unique Paths                                  ](./problems/062.md) | [js](./javascript/062.js) [ruby](./ruby/062.rb) |      |
 |  63 | [Unique Paths II                               ](./problems/063.md) | [js](./javascript/063.js) [ruby](./ruby/063.rb) |      |
-|  64 | [Minimum Path Sum](./problems/minimum_path_sum.md) | [js](./javascript/minimum_path_sum.js) | |
+|  64 | [Minimum Path Sum                              ](./problems/064.md) | [js](./javascript/064.js) [ruby](./ruby/064.rb) |      |
 |  66 | [Plus One](./problems/plus_one.md) | [js](./javascript/plus_one.js) | |
 |  67 | [Add Binary](./problems/add_binary.md) | [js](./javascript/add_binary.js) | |
 |  68 | [Text Justification](./problems/text_justification.md) | [js](./javascript/text_justification.js) | |
