@@ -69,7 +69,7 @@ https://leetcode.com/problemset/algorithms/
 |  63 | [Unique Paths II                               ](./problems/063.md) | [js](./javascript/063.js) [ruby](./ruby/063.rb) |      |
 |  64 | [Minimum Path Sum                              ](./problems/064.md) | [js](./javascript/064.js) [ruby](./ruby/064.rb) |      |
 |  66 | [Plus One                                      ](./problems/066.md) | [js](./javascript/066.js) [ruby](./ruby/066.rb) |      |
-|  67 | [Add Binary](./problems/add_binary.md) | [js](./javascript/add_binary.js) | |
+|  67 | [Add Binary                                    ](./problems/067.md) | [js](./javascript/067.js) [ruby](./ruby/067.rb) |      |
 |  68 | [Text Justification](./problems/text_justification.md) | [js](./javascript/text_justification.js) | |
 |  69 | [Sqrt(x)](./problems/sqrt_x.md) | [js](./javascript/sqrt_x.js) | |
 |  70 | [Climbing Stairs](./problems/climbing_stairs.md) | [js](./javascript/climbing_stairs.js) | |
