@@ -70,8 +70,8 @@ https://leetcode.com/problemset/algorithms/
 |  64 | [Minimum Path Sum                              ](./problems/064.md) | [js](./javascript/064.js) [ruby](./ruby/064.rb) |      |
 |  66 | [Plus One                                      ](./problems/066.md) | [js](./javascript/066.js) [ruby](./ruby/066.rb) |      |
 |  67 | [Add Binary                                    ](./problems/067.md) | [js](./javascript/067.js) [ruby](./ruby/067.rb) |      |
-|  68 | [Text Justification](./problems/text_justification.md) | [js](./javascript/text_justification.js) | |
-|  69 | [Sqrt(x)](./problems/sqrt_x.md) | [js](./javascript/sqrt_x.js) | |
+|  68 | [Text Justification                            ](./problems/068.md) | [js](./javascript/068.js)                       |      |
+|  69 | [Sqrt(x)                                       ](./problems/069.md) | [js](./javascript/069.js)                       |      |
 |  70 | [Climbing Stairs                               ](./problems/070.md) | [js](./javascript/070.js) [ruby](./ruby/070.rb) |      |
 |  71 | [Simplify Path](./problems/simplify_path.md) | [js](./javascript/simplify_path.js) | |
 |  72 | [Edit Distance](./problems/edit_distance.md) | [js](./javascript/edit_distance.js) | |
