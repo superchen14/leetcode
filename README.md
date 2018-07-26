@@ -72,7 +72,7 @@ https://leetcode.com/problemset/algorithms/
 |  67 | [Add Binary                                    ](./problems/067.md) | [js](./javascript/067.js) [ruby](./ruby/067.rb) |      |
 |  68 | [Text Justification](./problems/text_justification.md) | [js](./javascript/text_justification.js) | |
 |  69 | [Sqrt(x)](./problems/sqrt_x.md) | [js](./javascript/sqrt_x.js) | |
-|  70 | [Climbing Stairs](./problems/climbing_stairs.md) | [js](./javascript/climbing_stairs.js) | |
+|  70 | [Climbing Stairs                               ](./problems/070.md) | [js](./javascript/070.js) [ruby](./ruby/070.rb) |      |
 |  71 | [Simplify Path](./problems/simplify_path.md) | [js](./javascript/simplify_path.js) | |
 |  72 | [Edit Distance](./problems/edit_distance.md) | [js](./javascript/edit_distance.js) | |
 |  73 | [Set Matrix Zeroes](./problems/set_matrix_zeroes.md) | [js](./javascript/set_matrix_zeroes.js) | |
