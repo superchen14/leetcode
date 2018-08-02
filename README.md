@@ -74,7 +74,7 @@ https://leetcode.com/problemset/algorithms/
 |  69 | [Sqrt(x)                                       ](./problems/069.md) | [js](./javascript/069.js)                       |      |
 |  70 | [Climbing Stairs                               ](./problems/070.md) | [js](./javascript/070.js) [ruby](./ruby/070.rb) |      |
 |  71 | [Simplify Path                                 ](./problems/071.md) | [js](./javascript/071.js) [ruby](./ruby/071.rb) |      |
-|  72 | [Edit Distance](./problems/edit_distance.md) | [js](./javascript/edit_distance.js) | |
+|  72 | [Edit Distance                                 ](./problems/072.md) | [js](./javascript/072.js) [ruby](./ruby/072.rb) |      |
 |  73 | [Set Matrix Zeroes](./problems/set_matrix_zeroes.md) | [js](./javascript/set_matrix_zeroes.js) | |
 |  74 | [Search a 2D Matrix](./problems/search_a_2d_matrix.md) | [js](./javascript/search_a_2d_matrix.js) | |
 |  75 | [Sort Colors](./problems/sort_colors.md) | [js](./javascript/sort_colors.js) | |
