@@ -16,5 +16,3 @@ var simplifyPath = function(path) {
 
   return "/" + stack.join("/");
 };
-
-simplifyPath("/..");
