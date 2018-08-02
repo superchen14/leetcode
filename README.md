@@ -76,8 +76,8 @@ https://leetcode.com/problemset/algorithms/
 |  71 | [Simplify Path                                 ](./problems/071.md) | [js](./javascript/071.js) [ruby](./ruby/071.rb) |      |
 |  72 | [Edit Distance                                 ](./problems/072.md) | [js](./javascript/072.js) [ruby](./ruby/072.rb) |      |
 |  73 | [Set Matrix Zeroes                             ](./problems/073.md) | [js](./javascript/073.js) [ruby](./ruby/073.rb) |      |
-|  74 | [Search a 2D Matrix](./problems/search_a_2d_matrix.md) | [js](./javascript/search_a_2d_matrix.js) | |
-|  75 | [Sort Colors](./problems/sort_colors.md) | [js](./javascript/sort_colors.js) | |
+|  74 | [Search a 2D Matrix                            ](./problems/074.md) | [js](./javascript/074.js)                       |      |
+|  75 | [Sort Colors                                   ](./problems/075.md) | [js](./javascript/075.js) [ruby](./ruby/075.rb) |      |
 |  76 | [Minimum Window Substring](./problems/minimum_window_substring.md) | [js](./javascript/minimum_window_substring.js) | |
 |  77 | [Combinations](./problems/combinations.md) | [js](./javascript/combinations.js) | |
 |  78 | [Subsets](./problems/subsets.md) | [js](./javascript/subsets.js) | |
