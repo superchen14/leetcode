@@ -79,7 +79,7 @@ https://leetcode.com/problemset/algorithms/
 |  74 | [Search a 2D Matrix                            ](./problems/074.md) | [js](./javascript/074.js)                       |      |
 |  75 | [Sort Colors                                   ](./problems/075.md) | [js](./javascript/075.js) [ruby](./ruby/075.rb) |      |
 |  76 | [Minimum Window Substring                      ](./problems/076.md) | [js](./javascript/076.js) [ruby](./ruby/076.rb) |      |
-|  77 | [Combinations](./problems/combinations.md) | [js](./javascript/combinations.js) | |
+|  77 | [Combinations                                  ](./problems/077.md) | [js](./javascript/077.js) [ruby](./ruby/077.rb) |      |
 |  78 | [Subsets](./problems/subsets.md) | [js](./javascript/subsets.js) | |
 |  79 | [Word Search](./problems/word_search.md) | [js](./javascript/word_search.js) | 👍 |
 |  80 | [Remove Duplicates for Sorted Array](./problems/remove_duplicates_from_sorted_array.md) | [js](./javascript/remove_duplicates_from_sorted_array.js) | |
