@@ -82,7 +82,7 @@ https://leetcode.com/problemset/algorithms/
 |  77 | [Combinations                                  ](./problems/077.md) | [js](./javascript/077.js) [ruby](./ruby/077.rb) |      |
 |  78 | [Subsets                                       ](./problems/078.md) | [js](./javascript/078.js) [ruby](./ruby/078.rb) |      |
 |  79 | [Word Search                                   ](./problems/079.md) | [js](./javascript/079.js) [ruby](./ruby/079.rb) |      |
-|  80 | [Remove Duplicates for Sorted Array](./problems/remove_duplicates_from_sorted_array.md) | [js](./javascript/remove_duplicates_from_sorted_array.js) | |
+|  80 | [Remove Duplicates for Sorted Array            ](./problems/080.md) | [js](./javascript/080.js) [ruby](./ruby/080.rb) |      |
 |  81 | [Search in Rotated Sorted Array II](./problems/search_in_rotated_sorted_array_ii.md) | [js](./javascript/search_in_rotated_sorted_array_ii.js) | |
 |  82 | [Remove Duplicates from Sorted List II](./problems/remove_duplicates_from_sorted_list_ii.md) | [js](./javascript/remove_duplicates_from_sorted_list_ii.js) | |
 |  83 | [Remove Duplicates from Sorted List](./problems/remove_duplicates_from_sorted_list.md) | [js](./javascript/remove_duplicates_from_sorted_list.js) | |
