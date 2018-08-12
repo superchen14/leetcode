@@ -90,7 +90,7 @@ https://leetcode.com/problemset/algorithms/
 |  85 | [Maximal Rectangle](./problems/maximal_rectangle.md) | [js](./javascript/maximal_rectangle.js) | |
 |  86 | [Partition List](./problems/partition_list.md) | [js](./javascript/partition_list.js) | |
 |  87 | [Scramble String](./problems/scramble_string.md) | [js](./javascript/scramble_string.js) | |
-|  88 | [Merge Sorted Array](./problems/merge_sorted_array.md) | [js](./javascript/merge_sorted_array.js) | |
+|  88 | [Merge Sorted Array                            ](./problems/088.md) | [js](./javascript/088.js) [ruby](./ruby/088.rb) |      |
 |  89 | [Gray Code](./problems/gray_code.md) | [js](./javascript/gray_code.js) | |
 |  90 | [Subsets II](./problems/subsets_ii.md) | [js](./javascript/subsets_ii.js) | |
 |  91 | [Decode Ways](./problems/decode_ways.md) | [js](./javascript/decode_ways.js) | |
