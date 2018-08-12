@@ -102,7 +102,7 @@ https://leetcode.com/problemset/algorithms/
 |  97 | [Interleaving String](./problems/interleaving_string.md) | [js](./javascript/interleaving_string.js) | |
 |  98 | [Validate Binary Search Tree](./problems/validate_binary_search_tree.md) | [js](./javascript/validate_binary_search_tree.js) | |
 |  99 | [Recover Binary Search Tree](./problems/recover_binary_search_tree.md) | [js](./javascript/recover_binary_search_tree.js) | |
-| 100 | [Same Tree](./problems/same_tree.md) | [js](./javascript/same_tree.js) | |
+| 100 | [Same Tree                                     ](./problems/100.md) | [js](./javascript/100.js)                       |      |
 | 101 | [Symmetric Tree](./problems/symmetric_tree.md) | [js](./javascript/symmetric_tree.js) | |
 | 102 | [Binary Tree Level Order Traversal](./problems/binary_tree_level_order_traversal.md) | [js](./javascript/binary_tree_level_order_traversal.js) | |
 | 103 | [Binary Tree ZigZag Level Order Traversal](./problems/binary_tree_zigzag_level_order_traversal.md) | [js](./javascript/binary_tree_zigzag_level_order_traversal.js) | |
