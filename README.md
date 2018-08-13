@@ -88,7 +88,7 @@ https://leetcode.com/problemset/algorithms/
 |  83 | [Remove Duplicates from Sorted List            ](./problems/083.md) | [js](./javascript/083.js) [ruby](./ruby/083.rb) |      |
 |  84 | [Largest Rectangle in Histogram                ](./problems/084.md) | [js](./javascript/084.js) [ruby](./ruby/084.rb) |      |
 |  85 | [Maximal Rectangle                             ](./problems/085.md) | [js](./javascript/085.js) [ruby](./ruby/085.rb) |      |
-|  86 | [Partition List](./problems/partition_list.md) | [js](./javascript/partition_list.js) | |
+|  86 | [Partition List                                ](./problems/086.md) | [js](./javascript/086.js) [ruby](./ruby/086.rb) |      |
 |  87 | [Scramble String](./problems/scramble_string.md) | [js](./javascript/scramble_string.js) | |
 |  88 | [Merge Sorted Array                            ](./problems/088.md) | [js](./javascript/088.js) [ruby](./ruby/088.rb) |      |
 |  89 | [Gray Code](./problems/gray_code.md) | [js](./javascript/gray_code.js) | |
