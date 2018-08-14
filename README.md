@@ -89,7 +89,7 @@ https://leetcode.com/problemset/algorithms/
 |  84 | [Largest Rectangle in Histogram                ](./problems/084.md) | [js](./javascript/084.js) [ruby](./ruby/084.rb) |      |
 |  85 | [Maximal Rectangle                             ](./problems/085.md) | [js](./javascript/085.js) [ruby](./ruby/085.rb) |      |
 |  86 | [Partition List                                ](./problems/086.md) | [js](./javascript/086.js) [ruby](./ruby/086.rb) |      |
-|  87 | [Scramble String](./problems/scramble_string.md) | [js](./javascript/scramble_string.js) | |
+|  87 | [Scramble String                               ](./problems/087.md) | [js](./javascript/087.js) [ruby](./ruby/087.rb) |      |
 |  88 | [Merge Sorted Array                            ](./problems/088.md) | [js](./javascript/088.js) [ruby](./ruby/088.rb) |      |
 |  89 | [Gray Code](./problems/gray_code.md) | [js](./javascript/gray_code.js) | |
 |  90 | [Subsets II](./problems/subsets_ii.md) | [js](./javascript/subsets_ii.js) | |
