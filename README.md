@@ -106,7 +106,7 @@ https://leetcode.com/problemset/algorithms/
 | 101 | [Symmetric Tree                                ](./problems/101.md) | [js](./javascript/101.js)                       |      |
 | 102 | [Binary Tree Level Order Traversal](./problems/binary_tree_level_order_traversal.md) | [js](./javascript/binary_tree_level_order_traversal.js) | |
 | 103 | [Binary Tree ZigZag Level Order Traversal](./problems/binary_tree_zigzag_level_order_traversal.md) | [js](./javascript/binary_tree_zigzag_level_order_traversal.js) | |
-| 104 | [Maximum Depth of Binary Tree](./problems/maximum_depth_of_binary_tree.md) | [js](./javascript/maximum_depth_of_binary_tree.js) | |
+| 104 | [Maximum Depth of Binary Tree                  ](./problems/104.md) | [js](./javascript/104.js)                       |      |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./problems/construct_binary_tree_from_preorder_and_inorder_traversal.md) | [js](./javascript/construct_binary_tree_from_preorder_and_inorder_traversal.js) | |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./problems/construct_binary_tree_from_inorder_and_postorder_traversal.md) | [js](./javascript/construct_binary_tree_from_inorder_and_postorder_traversal.js) | |
 | 107 | [Binary Tree Level Order Traversal II](./problems/binary_tree_level_order_traversal_ii.md) | [js](./javascript/binary_tree_level_order_traversal_ii.js) | |
