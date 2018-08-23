@@ -92,7 +92,7 @@ https://leetcode.com/problemset/algorithms/
 |  87 | [Scramble String                               ](./problems/087.md) | [js](./javascript/087.js) [ruby](./ruby/087.rb) |      |
 |  88 | [Merge Sorted Array                            ](./problems/088.md) | [js](./javascript/088.js) [ruby](./ruby/088.rb) |      |
 |  89 | [Gray Code                                     ](./problems/089.md) | [js](./javascript/089.js)                       |      |
-|  90 | [Subsets II](./problems/subsets_ii.md) | [js](./javascript/subsets_ii.js) | |
+|  90 | [Subsets II                                    ](./problems/090.md) | [js](./javascript/090.js)                       |      |
 |  91 | [Decode Ways](./problems/decode_ways.md) | [js](./javascript/decode_ways.js) | |
 |  92 | [Reverse Linked List II](./problems/reverse_linked_list_ii.md) | [js](./javascript/reverse_linked_list_ii.js) | |
 |  93 | [Restore IP Addresses](./problems/restore_ip_addresses.md) | [js](./javascript/restore_ip_addresses.js) | |

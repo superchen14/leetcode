@@ -18,13 +18,6 @@ var subsetsWithDup = function(nums) {
     while(nums[index] !== lastNum) ++index; // if lastNum is 5, find index of first 5 
     const count = nums.length - index;  // if lastNum is 5, how many 5 in nums
     const subSubsets = subsetsWithDup(nums.slice(0, index));
-    return previousSubsets.concat(subSubsets.map(subSubset => {
-      let temp = count;
-      while(temp > 0) {
-        subSubset.push(lastNum);
-        --temp;
-      }
-      return subSubset;
-    }));
+    return previousSubsets.concat(subSubsets.map(subSubset => subSubset.concat( (new Array(count)).fill(lastNum)  )));
   }
 };
