@@ -104,7 +104,7 @@ https://leetcode.com/problemset/algorithms/
 |  99 | [Recover Binary Search Tree](./problems/recover_binary_search_tree.md) | [js](./javascript/recover_binary_search_tree.js) | |
 | 100 | [Same Tree                                     ](./problems/100.md) | [js](./javascript/100.js)                       |      |
 | 101 | [Symmetric Tree                                ](./problems/101.md) | [js](./javascript/101.js)                       |      |
-| 102 | [Binary Tree Level Order Traversal](./problems/binary_tree_level_order_traversal.md) | [js](./javascript/binary_tree_level_order_traversal.js) | |
+| 102 | [Binary Tree Level Order Traversal             ](./problems/102.md) | [js](./javascript/102.js)                       |      |
 | 103 | [Binary Tree ZigZag Level Order Traversal](./problems/binary_tree_zigzag_level_order_traversal.md) | [js](./javascript/binary_tree_zigzag_level_order_traversal.js) | |
 | 104 | [Maximum Depth of Binary Tree                  ](./problems/104.md) | [js](./javascript/104.js)                       |      |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./problems/construct_binary_tree_from_preorder_and_inorder_traversal.md) | [js](./javascript/construct_binary_tree_from_preorder_and_inorder_traversal.js) | |
