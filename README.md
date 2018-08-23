@@ -108,7 +108,7 @@ https://leetcode.com/problemset/algorithms/
 | 103 | [Binary Tree ZigZag Level Order Traversal                   ](./problems/103.md) | [js](./javascript/103.js)                       |      |
 | 104 | [Maximum Depth of Binary Tree                               ](./problems/104.md) | [js](./javascript/104.js)                       |      |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal  ](./problems/105.md) | [js](./javascript/105.js)                       |      |
-| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./problems/construct_binary_tree_from_inorder_and_postorder_traversal.md) | [js](./javascript/construct_binary_tree_from_inorder_and_postorder_traversal.js) | |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal ](./problems/106.md) | [js](./javascript/106.js)                       |      |
 | 107 | [Binary Tree Level Order Traversal II](./problems/binary_tree_level_order_traversal_ii.md) | [js](./javascript/binary_tree_level_order_traversal_ii.js) | |
 | 108 | [Convert Sorted Array to Binary Search Tree](./problems/convert_sorted_array_to_binary_search_tree.md) | [js](./javascript/convert_sorted_array_to_binary_search_tree.js) | |
 | 109 | [Convert Sorted List to Binary Search Tree](./problems/convert_sorted_list_to_binary_search_tree.md) | [js](./javascript/convert_sorted_list_to_binary_search_tree.js) | |
