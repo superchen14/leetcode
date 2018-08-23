@@ -100,7 +100,7 @@ https://leetcode.com/problemset/algorithms/
 |  95 | [Unique Binary Search Trees II](./problems/unique_binary_search_trees_ii.md) | [js](./javascript/unique_binary_search_trees_ii.js) | |
 |  96 | [Unique Binary Search Trees](./problems/unique_binary_search_trees.md) | [js](./javascript/unique_binary_search_trees.js) | |
 |  97 | [Interleaving String](./problems/interleaving_string.md) | [js](./javascript/interleaving_string.js) | |
-|  98 | [Validate Binary Search Tree](./problems/validate_binary_search_tree.md) | [js](./javascript/validate_binary_search_tree.js) | |
+|  98 | [Validate Binary Search Tree                                ](./problems/098.md) | [js](./javascript/098.js)                       |      |
 |  99 | [Recover Binary Search Tree](./problems/recover_binary_search_tree.md) | [js](./javascript/recover_binary_search_tree.js) | |
 | 100 | [Same Tree                                                  ](./problems/100.md) | [js](./javascript/100.js)                       |      |
 | 101 | [Symmetric Tree                                             ](./problems/101.md) | [js](./javascript/101.js)                       |      |
