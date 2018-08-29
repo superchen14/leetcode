@@ -93,7 +93,7 @@ https://leetcode.com/problemset/algorithms/
 |  88 | [Merge Sorted Array                                         ](./problems/088.md) | [js](./javascript/088.js) [ruby](./ruby/088.rb) |      |
 |  89 | [Gray Code                                                  ](./problems/089.md) | [js](./javascript/089.js)                       |      |
 |  90 | [Subsets II                                                 ](./problems/090.md) | [js](./javascript/090.js)                       |      |
-|  91 | [Decode Ways](./problems/decode_ways.md) | [js](./javascript/decode_ways.js) | |
+|  91 | [Decode Ways                                                ](./problems/091.md) | [js](./javascript/091.js)                       |      |
 |  92 | [Reverse Linked List II](./problems/reverse_linked_list_ii.md) | [js](./javascript/reverse_linked_list_ii.js) | |
 |  93 | [Restore IP Addresses](./problems/restore_ip_addresses.md) | [js](./javascript/restore_ip_addresses.js) | |
 |  94 | [Binary Tree Inorder Traversal](./problems/binary_tree_inorder_traversal.md) | [js](./javascript/binary_tree_inorder_traversal.js) | |
