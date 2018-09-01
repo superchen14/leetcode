@@ -123,7 +123,7 @@ https://leetcode.com/problemset/algorithms/
 | 118 | [Pascal's Triangle                                          ](./problems/118.md) | [js](./javascript/118.js)                       |      |
 | 119 | [Pascal's Triangle II                                       ](./problems/119.md) | [js](./javascript/119.js)                       |      |
 | 120 | [Triangle                                                   ](./problems/120.md) | [js](./javascript/120.js)                       |      |
-| 121 | [Best Time to Buy and Sell Stock](./problems/best_time_to_buy_and_sell_stock.md) | [js](./javascript/best_time_to_buy_and_sell_stock.js) | |
+| 121 | [Best Time to Buy and Sell Stock                            ](./problems/121.md) | [js](./javascript/121.js)                       |      |
 | 122 | [Best Time to Buy and Sell Stock II](./problems/best_time_to_buy_and_sell_stock_ii.md) | [js](./javascript/best_time_to_buy_and_sell_stock_ii.js) | |
 | 123 | [Best Time to Buy and Sell Stock III](./problems/best_time_to_buy_and_sell_stock_iii.md) | [js](./javascript/best_time_to_buy_and_sell_stock_iii.js) | |
 | 124 | [Binary Tree Maximum Path Sum](./problems/binary_tree_maximum_path_sum.md) | [js](./javascript/binary_tree_maximum_path_sum.js) | |
