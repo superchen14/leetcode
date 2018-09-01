@@ -3,8 +3,8 @@ https://leetcode.com/problemset/algorithms/
 
 # LeetCode Solution List
 
-|  #  | Problem                                                             | Solution                                        | Note |
-| --- | ------------------------------------------------------------------- | ----------------------------------------------- | ---- |
+|  #  | Problem                                                                          | Solution                                        | Note |
+| --- | -------------------------------------------------------------------------------- | ----------------------------------------------- | ---- |
 |   1 | [Two Sum                                                    ](./problems/001.md) | [js](./javascript/001.js) [ruby](./ruby/001.rb) |      |
 |   2 | [Add Two Numbers                                            ](./problems/002.md) | [js](./javascript/002.js) [ruby](./ruby/002.rb) |      |
 |   3 | [Longest Substring Without Repeating Characters             ](./problems/003.md) | [js](./javascript/003.js) [ruby](./ruby/003.rb) |      |
@@ -94,14 +94,14 @@ https://leetcode.com/problemset/algorithms/
 |  89 | [Gray Code                                                  ](./problems/089.md) | [js](./javascript/089.js)                       |      |
 |  90 | [Subsets II                                                 ](./problems/090.md) | [js](./javascript/090.js)                       |      |
 |  91 | [Decode Ways                                                ](./problems/091.md) | [js](./javascript/091.js)                       |      |
-|  92 | [Reverse Linked List II](./problems/reverse_linked_list_ii.md) | [js](./javascript/reverse_linked_list_ii.js) | |
-|  93 | [Restore IP Addresses](./problems/restore_ip_addresses.md) | [js](./javascript/restore_ip_addresses.js) | |
-|  94 | [Binary Tree Inorder Traversal](./problems/binary_tree_inorder_traversal.md) | [js](./javascript/binary_tree_inorder_traversal.js) | |
-|  95 | [Unique Binary Search Trees II](./problems/unique_binary_search_trees_ii.md) | [js](./javascript/unique_binary_search_trees_ii.js) | |
-|  96 | [Unique Binary Search Trees](./problems/unique_binary_search_trees.md) | [js](./javascript/unique_binary_search_trees.js) | |
-|  97 | [Interleaving String](./problems/interleaving_string.md) | [js](./javascript/interleaving_string.js) | |
+|  92 | [Reverse Linked List II                                     ](./problems/092.md) | [js](./javascript/092.js)                       |      |
+|  93 | [Restore IP Addresses                                       ](./problems/093.md) | [js](./javascript/093.js)                       |      |
+|  94 | [Binary Tree Inorder Traversal                              ](./problems/094.md) | [js](./javascript/094.js)                       |      |
+|  95 | [Unique Binary Search Trees II                              ](./problems/095.md) | [js](./javascript/095.js)                       |      |
+|  96 | [Unique Binary Search Trees                                 ](./problems/096.md) | [js](./javascript/096.js)                       |      |
+|  97 | [Interleaving String                                        ](./problems/097.md) | [js](./javascript/097.js)                       |      |
 |  98 | [Validate Binary Search Tree                                ](./problems/098.md) | [js](./javascript/098.js)                       |      |
-|  99 | [Recover Binary Search Tree](./problems/recover_binary_search_tree.md) | [js](./javascript/recover_binary_search_tree.js) | |
+|  99 | [Recover Binary Search Tree                                 ](./problems/099.md) | [js](./javascript/099.js)                       |      |
 | 100 | [Same Tree                                                  ](./problems/100.md) | [js](./javascript/100.js)                       |      |
 | 101 | [Symmetric Tree                                             ](./problems/101.md) | [js](./javascript/101.js)                       |      |
 | 102 | [Binary Tree Level Order Traversal                          ](./problems/102.md) | [js](./javascript/102.js)                       |      |
