@@ -117,7 +117,7 @@ https://leetcode.com/problemset/algorithms/
 | 112 | [Path Sum                                                   ](./problems/112.md) | [js](./javascript/112.js)                       |      |
 | 113 | [Path Sum II                                                ](./problems/113.md) | [js](./javascript/113.js)                       |      |
 | 114 | [Flatten Binary Tree to Linked List                         ](./problems/114.md) | [js](./javascript/114.js)                       |      |
-| 115 | [Distinct Subsequences](./problems/distinct_subsequences.md) | [js](./javascript/distinct_subsequences.js) | |
+| 115 | [Distinct Subsequences                                      ](./problems/115.md) | [js](./javascript/115.js)                       |      |
 | 116 | [Populating Next Right Pointers in Each Node                ](./problems/116.md) | [js](./javascript/116.js)                       |      |
 | 117 | [Populating Next Right Pointers in Each Node II             ](./problems/116.md) | [js](./javascript/116.js)                       |      |
 | 118 | [Pascal's Triangle                                          ](./problems/118.md) | [js](./javascript/118.js)                       |      |
