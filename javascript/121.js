@@ -18,7 +18,7 @@ var maxProfit = function(prices) {
 
     let minIndex = start;
     let minValue = prices[start];
-    for (let i = start + 2; i < maxIndex; ++i) {
+    for (let i = start + 1; i < maxIndex; ++i) {
       if (prices[i] < minValue) {
         minIndex = i;
         minValue = prices[i];
