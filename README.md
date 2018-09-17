@@ -129,7 +129,7 @@ https://leetcode.com/problemset/algorithms/
 | 124 | [Binary Tree Maximum Path Sum                               ](./problems/124.md) | [js](./javascript/124.js)                       |      |
 | 125 | [Valid Palindrome                                           ](./problems/125.md) | [js](./javascript/125.js)                       |      |
 | 127 | [Word Ladder                                                ](./problems/127.md) | [js](./javascript/127.js)                       |      |
-| 129 | [Sum Root to Leaf Numbers](./problems/sum_root_to_leaf_numbers.md) | [js](./javascript/sum_root_to_leaf_numbers.js) | 👍 |
+| 129 | [Sum Root to Leaf Numbers                                   ](./problems/129.md) | [js](./javascript/129.js)                       |      |
 | 131 | [Palindrome partitioning](./problems/palindrome_partitioning.md) | [js](./javascript/palindrome_partitioning.js) | |
 | 136 | [Single Number                                              ](./problems/136.md) | [js](./javascript/136.js)                       |      |
 | 141 | [Linked List Cycle                                          ](./problems/141.md) | [js](./javascript/141.js)                       |      |
