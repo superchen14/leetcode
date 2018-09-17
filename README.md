@@ -126,7 +126,7 @@ https://leetcode.com/problemset/algorithms/
 | 121 | [Best Time to Buy and Sell Stock                            ](./problems/121.md) | [js](./javascript/121.js)                       |      |
 | 122 | [Best Time to Buy and Sell Stock II                         ](./problems/122.md) | [js](./javascript/122.js)                       |      |
 | 123 | [Best Time to Buy and Sell Stock III                        ](./problems/123.md) | [js](./javascript/123.js)                       |      |
-| 124 | [Binary Tree Maximum Path Sum](./problems/binary_tree_maximum_path_sum.md) | [js](./javascript/binary_tree_maximum_path_sum.js) | |
+| 124 | [Binary Tree Maximum Path Sum                               ](./problems/124.md) | [js](./javascript/124.js)                       |      |
 | 125 | [Valid Palindrome                                           ](./problems/125.md) | [js](./javascript/125.js)                       |      |
 | 127 | [Word Ladder                                                ](./problems/127.md) | [js](./javascript/127.js)                       |      |
 | 129 | [Sum Root to Leaf Numbers](./problems/sum_root_to_leaf_numbers.md) | [js](./javascript/sum_root_to_leaf_numbers.js) | 👍 |
