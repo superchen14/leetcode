@@ -136,6 +136,7 @@ https://leetcode.com/problemset/algorithms/
 | 137 | [Single Number II                                           ](./problems/137.md) | [js](./javascript/137.js)                       |      |
 | 138 | [Copy List with Random Pointer                              ](./problems/138.md) | [js](./javascript/138.js)                       |      |
 | 139 | [Word Break                                                 ](./problems/139.md) | [js](./javascript/139.js)                       |      |
+| 140 | [Word Break II                                              ](./problems/140.md) | [js](./javascript/140.js)                       |      |
 | 141 | [Linked List Cycle                                          ](./problems/141.md) | [js](./javascript/141.js)                       |      |
 | 142 | [Linked List Cycle II                                       ](./problems/142.md) | [js](./javascript/142.js)                       |      |
 | 160 | [Intersection of Two Linked Lists                           ](./problems/160.md) | [js](./javascript/160.js)                       |      |
