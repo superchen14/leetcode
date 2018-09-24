@@ -141,4 +141,5 @@ https://leetcode.com/problemset/algorithms/
 | 142 | [Linked List Cycle II                                       ](./problems/142.md) | [js](./javascript/142.js)                       |      |
 | 143 | [Reorder List                                               ](./problems/143.md) | [js](./javascript/143.js)                       |      |
 | 144 | [Binary Tree Preorder Traversal                             ](./problems/144.md) | [js](./javascript/144.js)                       |      |
+| 145 | [Binary Tree Postorder Traversal                            ](./problems/145.md) | [js](./javascript/145.js)                       |      |
 | 160 | [Intersection of Two Linked Lists                           ](./problems/160.md) | [js](./javascript/160.js)                       |      |
