@@ -143,4 +143,5 @@ https://leetcode.com/problemset/algorithms/
 | 144 | [Binary Tree Preorder Traversal                             ](./problems/144.md) | [js](./javascript/144.js)                       |      |
 | 145 | [Binary Tree Postorder Traversal                            ](./problems/145.md) | [js](./javascript/145.js)                       |      |
 | 146 | [LRU Cache                                                  ](./problems/146.md) | [js](./javascript/146.js)                       |      |
+| 150 | [Evaluate Reverse Polish Notation                           ](./problems/150.md) | [js](./javascript/150.js)                       |      |
 | 160 | [Intersection of Two Linked Lists                           ](./problems/160.md) | [js](./javascript/160.js)                       |      |
